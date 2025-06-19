@@ -1,0 +1,3214 @@
+[
+  [
+    {
+      "id": "Paul",
+      "score": 40100,
+      "adj": 30100
+    },
+    {
+      "id": "Andy",
+      "score": 29000,
+      "adj": 9000
+    },
+    {
+      "id": "yzsan",
+      "score": 15800,
+      "adj": -14200
+    },
+    {
+      "id": "Rocraft_ (Eric)",
+      "score": 15100,
+      "adj": -24900
+    }
+  ],
+  [
+    {
+      "id": "NoobWind",
+      "score": 40900,
+      "adj": 30900
+    },
+    {
+      "id": "Paul",
+      "score": 24500,
+      "adj": 4500
+    },
+    {
+      "id": "Zeliang",
+      "score": 18500,
+      "adj": -11500
+    },
+    {
+      "id": "Andy",
+      "score": 16100,
+      "adj": -23900
+    }
+  ],
+  [
+    {
+      "id": "Rocraft_ (Eric)",
+      "score": 47300,
+      "adj": 37300
+    },
+    {
+      "id": "Boeing797",
+      "score": 19300,
+      "adj": -700
+    },
+    {
+      "id": "NoobWind",
+      "score": 17400,
+      "adj": -12600
+    },
+    {
+      "id": "Ryan",
+      "score": 16000,
+      "adj": -24000
+    }
+  ],
+  [
+    {
+      "id": "Michael",
+      "score": 40700,
+      "adj": 30700
+    },
+    {
+      "id": "Paul",
+      "score": 24900,
+      "adj": 4900
+    },
+    {
+      "id": "Koga",
+      "score": 19000,
+      "adj": -11000
+    },
+    {
+      "id": "kev",
+      "score": 15400,
+      "adj": -24600
+    }
+  ],
+  [
+    {
+      "id": "herricku",
+      "score": 51400,
+      "adj": 41400
+    },
+    {
+      "id": "Koga",
+      "score": 19500,
+      "adj": -500
+    },
+    {
+      "id": "Paul",
+      "score": 18500,
+      "adj": -11500
+    },
+    {
+      "id": "Ryan",
+      "score": 10600,
+      "adj": -29400
+    }
+  ],
+  [
+    {
+      "id": "Ryan",
+      "score": 59800,
+      "adj": 49800
+    },
+    {
+      "id": "herricku",
+      "score": 23400,
+      "adj": 3400
+    },
+    {
+      "id": "Koga",
+      "score": 11700,
+      "adj": -18300
+    },
+    {
+      "id": "Paul",
+      "score": 5100,
+      "adj": -34900
+    }
+  ],
+  [
+    {
+      "id": "herricku",
+      "score": 58600,
+      "adj": 48600
+    },
+    {
+      "id": "Andy",
+      "score": 23100,
+      "adj": -1900
+    },
+    {
+      "id": "Paul",
+      "score": 23100,
+      "adj": -1900
+    },
+    {
+      "id": "Daniel D.",
+      "score": -4800,
+      "adj": -44800
+    }
+  ],
+  [
+    {
+      "id": "階段降りれる空丸",
+      "score": 37900,
+      "adj": 27900
+    },
+    {
+      "id": "Ryan",
+      "score": 37500,
+      "adj": 17500
+    },
+    {
+      "id": "yzsan",
+      "score": 27500,
+      "adj": -2500
+    },
+    {
+      "id": "kev",
+      "score": -2900,
+      "adj": -42900
+    }
+  ],
+  [
+    {
+      "id": "Andy",
+      "score": 55300,
+      "adj": 45300
+    },
+    {
+      "id": "herricku",
+      "score": 21100,
+      "adj": 1100
+    },
+    {
+      "id": "NoobWind",
+      "score": 16900,
+      "adj": -13100
+    },
+    {
+      "id": "kev",
+      "score": 6700,
+      "adj": -33300
+    }
+  ],
+  [
+    {
+      "id": "br0mabs",
+      "score": 50200,
+      "adj": 40200
+    },
+    {
+      "id": "llawro",
+      "score": 32000,
+      "adj": 12000
+    },
+    {
+      "id": "階段降りれる空丸",
+      "score": 10400,
+      "adj": -19600
+    },
+    {
+      "id": "Paul",
+      "score": 7400,
+      "adj": -32600
+    }
+  ],
+  [
+    {
+      "id": "Michael",
+      "score": 32900,
+      "adj": 22900
+    },
+    {
+      "id": "NoobWind",
+      "score": 26200,
+      "adj": 6200
+    },
+    {
+      "id": "Ryan",
+      "score": 23700,
+      "adj": -6300
+    },
+    {
+      "id": "kev",
+      "score": 17200,
+      "adj": -22800
+    }
+  ],
+  [
+    {
+      "id": "herricku",
+      "score": 48900,
+      "adj": 38900
+    },
+    {
+      "id": "Zeliang",
+      "score": 26500,
+      "adj": 6500
+    },
+    {
+      "id": "Rocraft_ (Eric)",
+      "score": 19700,
+      "adj": -10300
+    },
+    {
+      "id": "Paul",
+      "score": 4900,
+      "adj": -35100
+    }
+  ],
+  [
+    {
+      "id": "NoobWind",
+      "score": 40500,
+      "adj": 30500
+    },
+    {
+      "id": "kev",
+      "score": 39900,
+      "adj": 19900
+    },
+    {
+      "id": "Michael",
+      "score": 20900,
+      "adj": -9100
+    },
+    {
+      "id": "Ryan",
+      "score": -1300,
+      "adj": -41300
+    }
+  ],
+  [
+    {
+      "id": "herricku",
+      "score": 43000,
+      "adj": 33000
+    },
+    {
+      "id": "Ryan",
+      "score": 40200,
+      "adj": 20200
+    },
+    {
+      "id": "kev",
+      "score": 23600,
+      "adj": -6400
+    },
+    {
+      "id": "Paul",
+      "score": -6800,
+      "adj": -46800
+    }
+  ],
+  [
+    {
+      "id": "NoobWind",
+      "score": 50000,
+      "adj": 40000
+    },
+    {
+      "id": "Boeing797",
+      "score": 21900,
+      "adj": 1900
+    },
+    {
+      "id": "Rocraft_ (Eric)",
+      "score": 21100,
+      "adj": -8900
+    },
+    {
+      "id": "Andy",
+      "score": 7000,
+      "adj": -33000
+    }
+  ],
+  [
+    {
+      "id": "Rocraft_ (Eric)",
+      "score": 44200,
+      "adj": 34200
+    },
+    {
+      "id": "Ryan",
+      "score": 29800,
+      "adj": 9800
+    },
+    {
+      "id": "Boeing797",
+      "score": 17000,
+      "adj": -13000
+    },
+    {
+      "id": "Zakura2357",
+      "score": 9000,
+      "adj": -31000
+    }
+  ],
+  [
+    {
+      "id": "Michael",
+      "score": 42600,
+      "adj": 32600
+    },
+    {
+      "id": "NoobWind",
+      "score": 40400,
+      "adj": 20400
+    },
+    {
+      "id": "Zeliang",
+      "score": 19800,
+      "adj": -10200
+    },
+    {
+      "id": "階段降りれる空丸",
+      "score": -2800,
+      "adj": -42800
+    }
+  ],
+  [
+    {
+      "id": "herricku",
+      "score": 41200,
+      "adj": 31200
+    },
+    {
+      "id": "Paul",
+      "score": 37700,
+      "adj": 17700
+    },
+    {
+      "id": "Koga",
+      "score": 20100,
+      "adj": -9900
+    },
+    {
+      "id": "Andy",
+      "score": 1000,
+      "adj": -39000
+    }
+  ],
+  [
+    {
+      "id": "Zeliang",
+      "score": 46400,
+      "adj": 36400
+    },
+    {
+      "id": "herricku",
+      "score": 30000,
+      "adj": 10000
+    },
+    {
+      "id": "Ryan",
+      "score": 13600,
+      "adj": -16400
+    },
+    {
+      "id": "Paul",
+      "score": 10000,
+      "adj": -30000
+    }
+  ],
+  [
+    {
+      "id": "Zakura2357",
+      "score": 50000,
+      "adj": 40000
+    },
+    {
+      "id": "Michael",
+      "score": 41800,
+      "adj": 21800
+    },
+    {
+      "id": "Koga",
+      "score": 9800,
+      "adj": -20200
+    },
+    {
+      "id": "NoobWind",
+      "score": -1600,
+      "adj": -41600
+    }
+  ],
+  [
+    {
+      "id": "Koga",
+      "score": 41300,
+      "adj": 31300
+    },
+    {
+      "id": "Paul",
+      "score": 31500,
+      "adj": 11500
+    },
+    {
+      "id": "Ryan",
+      "score": 17300,
+      "adj": -12700
+    },
+    {
+      "id": "Zakura2357",
+      "score": 9900,
+      "adj": -30100
+    }
+  ],
+  [
+    {
+      "id": "NoobWind",
+      "score": 59300,
+      "adj": 49300
+    },
+    {
+      "id": "Michael",
+      "score": 23000,
+      "adj": 3000
+    },
+    {
+      "id": "Zeliang",
+      "score": 18300,
+      "adj": -11700
+    },
+    {
+      "id": "herricku",
+      "score": -600,
+      "adj": -40600
+    }
+  ],
+  [
+    {
+      "id": "Ryan",
+      "score": 55100,
+      "adj": 45100
+    },
+    {
+      "id": "Michael",
+      "score": 26900,
+      "adj": 6900
+    },
+    {
+      "id": "Zeliang",
+      "score": 24000,
+      "adj": -6000
+    },
+    {
+      "id": "Koga",
+      "score": -6000,
+      "adj": -46000
+    }
+  ],
+  [
+    {
+      "id": "NoobWind",
+      "score": 50500,
+      "adj": 40500
+    },
+    {
+      "id": "herricku",
+      "score": 46600,
+      "adj": 26600
+    },
+    {
+      "id": "Zakura2357",
+      "score": 10200,
+      "adj": -19800
+    },
+    {
+      "id": "Paul",
+      "score": -7300,
+      "adj": -47300
+    }
+  ],
+  [
+    {
+      "id": "Zeliang",
+      "score": 43800,
+      "adj": 33800
+    },
+    {
+      "id": "NoobWind",
+      "score": 39500,
+      "adj": 19500
+    },
+    {
+      "id": "Zakura2357",
+      "score": 31700,
+      "adj": 1700
+    },
+    {
+      "id": "Ryan",
+      "score": -15000,
+      "adj": -55000
+    }
+  ],
+  [
+    {
+      "id": "Koga",
+      "score": 46600,
+      "adj": 36600
+    },
+    {
+      "id": "herricku",
+      "score": 44400,
+      "adj": 24400
+    },
+    {
+      "id": "Michael",
+      "score": 19000,
+      "adj": -11000
+    },
+    {
+      "id": "Paul",
+      "score": -10000,
+      "adj": -50000
+    }
+  ],
+  [
+    {
+      "id": "Koga",
+      "score": 42500,
+      "adj": 32500
+    },
+    {
+      "id": "herricku",
+      "score": 38200,
+      "adj": 18200
+    },
+    {
+      "id": "Paul",
+      "score": 13800,
+      "adj": -16200
+    },
+    {
+      "id": "NoobWind",
+      "score": 5500,
+      "adj": -34500
+    }
+  ],
+  [
+    {
+      "id": "herricku",
+      "score": 40300,
+      "adj": 30300
+    },
+    {
+      "id": "Zeliang",
+      "score": 38300,
+      "adj": 18300
+    },
+    {
+      "id": "Andy",
+      "score": 25400,
+      "adj": -4600
+    },
+    {
+      "id": "Koga",
+      "score": -4000,
+      "adj": -44000
+    }
+  ],
+  [
+    {
+      "id": "Paul",
+      "score": 98800,
+      "adj": 88800
+    },
+    {
+      "id": "Im a Good boy",
+      "score": 4700,
+      "adj": -15300
+    },
+    {
+      "id": "herricku",
+      "score": 400,
+      "adj": -29600
+    },
+    {
+      "id": "Andy",
+      "score": -3900,
+      "adj": -43900
+    }
+  ],
+  [
+    {
+      "id": "William",
+      "score": 45300,
+      "adj": 35300
+    },
+    {
+      "id": "herricku",
+      "score": 33300,
+      "adj": 13300
+    },
+    {
+      "id": "Ryan",
+      "score": 24600,
+      "adj": -5400
+    },
+    {
+      "id": "Paul",
+      "score": -3200,
+      "adj": -43200
+    }
+  ],
+  [
+    {
+      "id": "Paul",
+      "score": 63600,
+      "adj": 53600
+    },
+    {
+      "id": "alex",
+      "score": 36800,
+      "adj": 16800
+    },
+    {
+      "id": "Ryan",
+      "score": 6000,
+      "adj": -24000
+    },
+    {
+      "id": "herricku",
+      "score": -6400,
+      "adj": -46400
+    }
+  ],
+  [
+    {
+      "id": "Kevin Neegooyen",
+      "score": 87700,
+      "adj": 77700
+    },
+    {
+      "id": "Paul",
+      "score": 21900,
+      "adj": 1900
+    },
+    {
+      "id": "Im a Good boy",
+      "score": 18700,
+      "adj": -11300
+    },
+    {
+      "id": "Subzoofer",
+      "score": -28300,
+      "adj": -68300
+    }
+  ],
+  [
+    {
+      "id": "Andy",
+      "score": 32700,
+      "adj": 22700
+    },
+    {
+      "id": "alex",
+      "score": 31300,
+      "adj": 11300
+    },
+    {
+      "id": "Koga",
+      "score": 27100,
+      "adj": -2900
+    },
+    {
+      "id": "chanananabatman",
+      "score": 8900,
+      "adj": -31100
+    }
+  ],
+  [
+    {
+      "id": "William",
+      "score": 52700,
+      "adj": 42700
+    },
+    {
+      "id": "alex",
+      "score": 29000,
+      "adj": 9000
+    },
+    {
+      "id": "Paul",
+      "score": 18400,
+      "adj": -11600
+    },
+    {
+      "id": "Koga",
+      "score": -100,
+      "adj": -40100
+    }
+  ],
+  [
+    {
+      "id": "Ryan",
+      "score": 58900,
+      "adj": 48900
+    },
+    {
+      "id": "Paul",
+      "score": 25500,
+      "adj": 5500
+    },
+    {
+      "id": "Michael",
+      "score": 15400,
+      "adj": -14600
+    },
+    {
+      "id": "Koga",
+      "score": 200,
+      "adj": -39800
+    }
+  ],
+  [
+    {
+      "id": "alex",
+      "score": 48300,
+      "adj": 38300
+    },
+    {
+      "id": "Michael",
+      "score": 45100,
+      "adj": 25100
+    },
+    {
+      "id": "Ryan",
+      "score": 4200,
+      "adj": -25800
+    },
+    {
+      "id": "herricku",
+      "score": 2400,
+      "adj": -37600
+    }
+  ],
+  [
+    {
+      "id": "Koga",
+      "score": 38600,
+      "adj": 28600
+    },
+    {
+      "id": "Paul",
+      "score": 27900,
+      "adj": 7900
+    },
+    {
+      "id": "William",
+      "score": 20800,
+      "adj": -9200
+    },
+    {
+      "id": "Zeliang",
+      "score": 12700,
+      "adj": -27300
+    }
+  ],
+  [
+    {
+      "id": "Michael",
+      "score": 46700,
+      "adj": 36700
+    },
+    {
+      "id": "Paul",
+      "score": 33100,
+      "adj": 13100
+    },
+    {
+      "id": "alex",
+      "score": 24200,
+      "adj": -5800
+    },
+    {
+      "id": "Koga",
+      "score": -4000,
+      "adj": -44000
+    }
+  ],
+  [
+    {
+      "id": "Michael",
+      "score": 60400,
+      "adj": 50400
+    },
+    {
+      "id": "Koga",
+      "score": 43500,
+      "adj": 23500
+    },
+    {
+      "id": "alex",
+      "score": -600,
+      "adj": -30600
+    },
+    {
+      "id": "Paul",
+      "score": -3300,
+      "adj": -43300
+    }
+  ],
+  [
+    {
+      "id": "Ryan",
+      "score": 61400,
+      "adj": 51400
+    },
+    {
+      "id": "Paul",
+      "score": 17500,
+      "adj": -2500
+    },
+    {
+      "id": "br0mabs",
+      "score": 15400,
+      "adj": -14600
+    },
+    {
+      "id": "Zeliang",
+      "score": 5700,
+      "adj": -34300
+    }
+  ],
+  [
+    {
+      "id": "thepersonwhodied",
+      "score": 45300,
+      "adj": 35300
+    },
+    {
+      "id": "Zakura2357",
+      "score": 30100,
+      "adj": 10100
+    },
+    {
+      "id": "Winston",
+      "score": 28600,
+      "adj": -1400
+    },
+    {
+      "id": "Paul",
+      "score": -4000,
+      "adj": -44000
+    }
+  ],
+  [
+    {
+      "id": "thepersonwhodied",
+      "score": 37700,
+      "adj": 27700
+    },
+    {
+      "id": "William",
+      "score": 33200,
+      "adj": 13200
+    },
+    {
+      "id": "Paul",
+      "score": 28500,
+      "adj": -1500
+    },
+    {
+      "id": "Winston",
+      "score": 600,
+      "adj": -39400
+    }
+  ],
+  [
+    {
+      "id": "Zakura2357",
+      "score": 36200,
+      "adj": 26200
+    },
+    {
+      "id": "Winston",
+      "score": 32100,
+      "adj": 12100
+    },
+    {
+      "id": "herricku",
+      "score": 17100,
+      "adj": -12900
+    },
+    {
+      "id": "David",
+      "score": 14600,
+      "adj": -25400
+    }
+  ],
+  [
+    {
+      "id": "Paul",
+      "score": 55500,
+      "adj": 45500
+    },
+    {
+      "id": "Ulaan",
+      "score": 46100,
+      "adj": 26100
+    },
+    {
+      "id": "alex",
+      "score": 2800,
+      "adj": -27200
+    },
+    {
+      "id": "Sheng",
+      "score": -4400,
+      "adj": -44400
+    }
+  ],
+  [
+    {
+      "id": "Zakura2357",
+      "score": 63200,
+      "adj": 53200
+    },
+    {
+      "id": "Winston",
+      "score": 18900,
+      "adj": -1100
+    },
+    {
+      "id": "Ryan",
+      "score": 18300,
+      "adj": -11700
+    },
+    {
+      "id": "alex",
+      "score": -400,
+      "adj": -40400
+    }
+  ],
+  [
+    {
+      "id": "herricku",
+      "score": 45700,
+      "adj": 35700
+    },
+    {
+      "id": "David",
+      "score": 41700,
+      "adj": 21700
+    },
+    {
+      "id": "Paul",
+      "score": 32600,
+      "adj": 2600
+    },
+    {
+      "id": "Michael",
+      "score": -20000,
+      "adj": -60000
+    }
+  ],
+  [
+    {
+      "id": "Ryan",
+      "score": 56300,
+      "adj": 46300
+    },
+    {
+      "id": "Andy",
+      "score": 23700,
+      "adj": 3700
+    },
+    {
+      "id": "Ulaan",
+      "score": 13400,
+      "adj": -16600
+    },
+    {
+      "id": "Sheng",
+      "score": 6600,
+      "adj": -33400
+    }
+  ],
+  [
+    {
+      "id": "Paul",
+      "score": 57500,
+      "adj": 47500
+    },
+    {
+      "id": "Ryan",
+      "score": 30700,
+      "adj": 10700
+    },
+    {
+      "id": "Andy",
+      "score": 9600,
+      "adj": -20400
+    },
+    {
+      "id": "Koga",
+      "score": 2200,
+      "adj": -37800
+    }
+  ],
+  [
+    {
+      "id": "herricku",
+      "score": 39600,
+      "adj": 29600
+    },
+    {
+      "id": "David",
+      "score": 27800,
+      "adj": 7800
+    },
+    {
+      "id": "Zeliang",
+      "score": 20600,
+      "adj": -9400
+    },
+    {
+      "id": "Paul",
+      "score": 12000,
+      "adj": -28000
+    }
+  ],
+  [
+    {
+      "id": "Zeliang",
+      "score": 36900,
+      "adj": 26900
+    },
+    {
+      "id": "alex",
+      "score": 30500,
+      "adj": 10500
+    },
+    {
+      "id": "Tony",
+      "score": 28200,
+      "adj": -1800
+    },
+    {
+      "id": "Paul",
+      "score": 4400,
+      "adj": -35600
+    }
+  ],
+  [
+    {
+      "id": "Rain",
+      "score": 47800,
+      "adj": 37800
+    },
+    {
+      "id": "Im a Good boy",
+      "score": 18400,
+      "adj": -1600
+    },
+    {
+      "id": "Paul",
+      "score": 17100,
+      "adj": -12900
+    },
+    {
+      "id": "alex",
+      "score": 16700,
+      "adj": -23300
+    }
+  ],
+  [
+    {
+      "id": "uikyou",
+      "score": 32800,
+      "adj": 22800
+    },
+    {
+      "id": "RedComet",
+      "score": 28900,
+      "adj": 8900
+    },
+    {
+      "id": "Jolie",
+      "score": 27400,
+      "adj": -2600
+    },
+    {
+      "id": "Paul",
+      "score": 10900,
+      "adj": -29100
+    }
+  ],
+  [
+    {
+      "id": "Rohit",
+      "score": 53000,
+      "adj": 43000
+    },
+    {
+      "id": "danielq987",
+      "score": 30300,
+      "adj": 10300
+    },
+    {
+      "id": "riichinya",
+      "score": 9800,
+      "adj": -20200
+    },
+    {
+      "id": "Hilda",
+      "score": 6900,
+      "adj": -33100
+    }
+  ],
+  [
+    {
+      "id": "Kevin Neegooyen",
+      "score": 33000,
+      "adj": 23000
+    },
+    {
+      "id": "Sakei",
+      "score": 24800,
+      "adj": 4800
+    },
+    {
+      "id": "bigjangles",
+      "score": 23800,
+      "adj": -6200
+    },
+    {
+      "id": "Eric",
+      "score": 18400,
+      "adj": -21600
+    }
+  ],
+  [
+    {
+      "id": "riichinya",
+      "score": 27600,
+      "adj": 17600
+    },
+    {
+      "id": "Sakei",
+      "score": 27400,
+      "adj": 7400
+    },
+    {
+      "id": "Koga",
+      "score": 24300,
+      "adj": -5700
+    },
+    {
+      "id": "Jolie",
+      "score": 20700,
+      "adj": -19300
+    }
+  ],
+  [
+    {
+      "id": "Michael",
+      "score": 37600,
+      "adj": 27600
+    },
+    {
+      "id": "Paul",
+      "score": 33300,
+      "adj": 13300
+    },
+    {
+      "id": "uikyou",
+      "score": 23400,
+      "adj": -6600
+    },
+    {
+      "id": "Hilda",
+      "score": 5700,
+      "adj": -34300
+    }
+  ],
+  [
+    {
+      "id": "Michael",
+      "score": 53700,
+      "adj": 43700
+    },
+    {
+      "id": "Ryan",
+      "score": 27000,
+      "adj": 7000
+    },
+    {
+      "id": "danielq987",
+      "score": 20400,
+      "adj": -9600
+    },
+    {
+      "id": "Koga",
+      "score": -1100,
+      "adj": -41100
+    }
+  ],
+  [
+    {
+      "id": "uikyou",
+      "score": 47300,
+      "adj": 37300
+    },
+    {
+      "id": "Paul",
+      "score": 39400,
+      "adj": 19400
+    },
+    {
+      "id": "Rohit",
+      "score": 11400,
+      "adj": -18600
+    },
+    {
+      "id": "Boeing797",
+      "score": 1900,
+      "adj": -38100
+    }
+  ],
+  [
+    {
+      "id": "Michael",
+      "score": 36300,
+      "adj": 26300
+    },
+    {
+      "id": "Boeing797",
+      "score": 31400,
+      "adj": 11400
+    },
+    {
+      "id": "Rohit",
+      "score": 16300,
+      "adj": -13700
+    },
+    {
+      "id": "uikyou",
+      "score": 16000,
+      "adj": -24000
+    }
+  ],
+  [
+    {
+      "id": "danielq987",
+      "score": 41800,
+      "adj": 31800
+    },
+    {
+      "id": "Ryan",
+      "score": 38600,
+      "adj": 18600
+    },
+    {
+      "id": "Koga",
+      "score": 15900,
+      "adj": -14100
+    },
+    {
+      "id": "Paul",
+      "score": 3700,
+      "adj": -36300
+    }
+  ],
+  [
+    {
+      "id": "danielq987",
+      "score": 31200,
+      "adj": 21200
+    },
+    {
+      "id": "Sakei",
+      "score": 30700,
+      "adj": 10700
+    },
+    {
+      "id": "uikyou",
+      "score": 26200,
+      "adj": -3800
+    },
+    {
+      "id": "Paul",
+      "score": 11900,
+      "adj": -28100
+    }
+  ],
+  [
+    {
+      "id": "Andy",
+      "score": 32100,
+      "adj": 22100
+    },
+    {
+      "id": "Sakei",
+      "score": 27800,
+      "adj": 7800
+    },
+    {
+      "id": "Kevin Neegooyen",
+      "score": 27100,
+      "adj": -2900
+    },
+    {
+      "id": "alex",
+      "score": 13000,
+      "adj": -27000
+    }
+  ],
+  [
+    {
+      "id": "Paul",
+      "score": 32700,
+      "adj": 22700
+    },
+    {
+      "id": "Hilda",
+      "score": 24600,
+      "adj": 4600
+    },
+    {
+      "id": "Koga",
+      "score": 24300,
+      "adj": -5700
+    },
+    {
+      "id": "uikyou",
+      "score": 18400,
+      "adj": -21600
+    }
+  ],
+  [
+    {
+      "id": "alex",
+      "score": 48300,
+      "adj": 38300
+    },
+    {
+      "id": "uikyou",
+      "score": 40800,
+      "adj": 20800
+    },
+    {
+      "id": "Koga",
+      "score": 12700,
+      "adj": -17300
+    },
+    {
+      "id": "tarball",
+      "score": -1800,
+      "adj": -41800
+    }
+  ],
+  [
+    {
+      "id": "Hilda",
+      "score": 46700,
+      "adj": 36700
+    },
+    {
+      "id": "Paul",
+      "score": 33500,
+      "adj": 13500
+    },
+    {
+      "id": "danielq987",
+      "score": 20000,
+      "adj": -10000
+    },
+    {
+      "id": "Rohit",
+      "score": -200,
+      "adj": -40200
+    }
+  ],
+  [
+    {
+      "id": "Ryan",
+      "score": 54000,
+      "adj": 44000
+    },
+    {
+      "id": "Paul",
+      "score": 24000,
+      "adj": 4000
+    },
+    {
+      "id": "tarball",
+      "score": 18000,
+      "adj": -12000
+    },
+    {
+      "id": "Rohit",
+      "score": 4000,
+      "adj": -36000
+    }
+  ],
+  [
+    {
+      "id": "uikyou",
+      "score": 54600,
+      "adj": 44600
+    },
+    {
+      "id": "Koga",
+      "score": 33300,
+      "adj": 13300
+    },
+    {
+      "id": "danielq987",
+      "score": 9700,
+      "adj": -20300
+    },
+    {
+      "id": "tarball",
+      "score": 2400,
+      "adj": -37600
+    }
+  ],
+  [
+    {
+      "id": "Michael",
+      "score": 33600,
+      "adj": 23600
+    },
+    {
+      "id": "uikyou",
+      "score": 31400,
+      "adj": 11400
+    },
+    {
+      "id": "Paul",
+      "score": 19500,
+      "adj": -10500
+    },
+    {
+      "id": "danielq987",
+      "score": 15500,
+      "adj": -24500
+    }
+  ],
+  [
+    {
+      "id": "Hilda",
+      "score": 41100,
+      "adj": 31100
+    },
+    {
+      "id": "Sakei",
+      "score": 40300,
+      "adj": 20300
+    },
+    {
+      "id": "joshma",
+      "score": 19200,
+      "adj": -10800
+    },
+    {
+      "id": "tarball",
+      "score": -600,
+      "adj": -40600
+    }
+  ],
+  [
+    {
+      "id": "Michael",
+      "score": 50000,
+      "adj": 40000
+    },
+    {
+      "id": "alex",
+      "score": 32000,
+      "adj": 12000
+    },
+    {
+      "id": "Zeliang",
+      "score": 13000,
+      "adj": -17000
+    },
+    {
+      "id": "Sakei",
+      "score": 5000,
+      "adj": -35000
+    }
+  ],
+  [
+    {
+      "id": "Matthew Tang",
+      "score": 35500,
+      "adj": 25500
+    },
+    {
+      "id": "br0mabs",
+      "score": 25100,
+      "adj": 5100
+    },
+    {
+      "id": "Rohit",
+      "score": 22200,
+      "adj": -7800
+    },
+    {
+      "id": "danielq987",
+      "score": 17200,
+      "adj": -22800
+    }
+  ],
+  [
+    {
+      "id": "bigjangles",
+      "score": 43100,
+      "adj": 33100
+    },
+    {
+      "id": "Paul",
+      "score": 28900,
+      "adj": 8900
+    },
+    {
+      "id": "William",
+      "score": 22400,
+      "adj": -7600
+    },
+    {
+      "id": "Ryan",
+      "score": 5600,
+      "adj": -34400
+    }
+  ],
+  [
+    {
+      "id": "Hilda",
+      "score": 48900,
+      "adj": 38900
+    },
+    {
+      "id": "uikyou",
+      "score": 25200,
+      "adj": 5200
+    },
+    {
+      "id": "riichinya",
+      "score": 17500,
+      "adj": -12500
+    },
+    {
+      "id": "tarball",
+      "score": 8400,
+      "adj": -31600
+    }
+  ],
+  [
+    {
+      "id": "Paul",
+      "score": 57600,
+      "adj": 47600
+    },
+    {
+      "id": "uikyou",
+      "score": 25800,
+      "adj": 5800
+    },
+    {
+      "id": "tarball",
+      "score": 20100,
+      "adj": -9900
+    },
+    {
+      "id": "Boeing797",
+      "score": -3500,
+      "adj": -43500
+    }
+  ],
+  [
+    {
+      "id": "Sakei",
+      "score": 33400,
+      "adj": 23400
+    },
+    {
+      "id": "Matthew Tang",
+      "score": 27100,
+      "adj": 7100
+    },
+    {
+      "id": "alex",
+      "score": 27000,
+      "adj": -3000
+    },
+    {
+      "id": "Rohit",
+      "score": 12500,
+      "adj": -27500
+    }
+  ],
+  [
+    {
+      "id": "danielq987",
+      "score": 43700,
+      "adj": 33700
+    },
+    {
+      "id": "Hilda",
+      "score": 28800,
+      "adj": 8800
+    },
+    {
+      "id": "Koga",
+      "score": 22000,
+      "adj": -8000
+    },
+    {
+      "id": "riichinya",
+      "score": 5500,
+      "adj": -34500
+    }
+  ],
+  [
+    {
+      "id": "uikyou",
+      "score": 33500,
+      "adj": 23500
+    },
+    {
+      "id": "danielq987",
+      "score": 32400,
+      "adj": 12400
+    },
+    {
+      "id": "Rohit",
+      "score": 27600,
+      "adj": -2400
+    },
+    {
+      "id": "Koga",
+      "score": 6500,
+      "adj": -33500
+    }
+  ],
+  [
+    {
+      "id": "uikyou",
+      "score": 77400,
+      "adj": 67400
+    },
+    {
+      "id": "Koga",
+      "score": 16100,
+      "adj": -3900
+    },
+    {
+      "id": "Michael",
+      "score": 5600,
+      "adj": -24400
+    },
+    {
+      "id": "Ryan",
+      "score": 900,
+      "adj": -39100
+    }
+  ],
+  [
+    {
+      "id": "uikyou",
+      "score": 45300,
+      "adj": 35300
+    },
+    {
+      "id": "br0mabs",
+      "score": 35900,
+      "adj": 15900
+    },
+    {
+      "id": "danielq987",
+      "score": 18900,
+      "adj": -11100
+    },
+    {
+      "id": "Paul",
+      "score": -100,
+      "adj": -40100
+    }
+  ],
+  [
+    {
+      "id": "Morax042",
+      "score": 51700,
+      "adj": 41700
+    },
+    {
+      "id": "herricku",
+      "score": 26000,
+      "adj": 6000
+    },
+    {
+      "id": "tthegood",
+      "score": 23600,
+      "adj": -6400
+    },
+    {
+      "id": "eternalvercty",
+      "score": -1300,
+      "adj": -41300
+    }
+  ],
+  [
+    {
+      "id": "alex",
+      "score": 39100,
+      "adj": 29100
+    },
+    {
+      "id": "Boeing797",
+      "score": 34000,
+      "adj": 14000
+    },
+    {
+      "id": "tthegood",
+      "score": 22000,
+      "adj": -8000
+    },
+    {
+      "id": "Sakei",
+      "score": 4900,
+      "adj": -35100
+    }
+  ],
+  [
+    {
+      "id": "Hilda",
+      "score": 31200,
+      "adj": 21200
+    },
+    {
+      "id": "Jolie",
+      "score": 30200,
+      "adj": 10200
+    },
+    {
+      "id": "uikyou",
+      "score": 19900,
+      "adj": -10100
+    },
+    {
+      "id": "bigjangles",
+      "score": 18700,
+      "adj": -21300
+    }
+  ],
+  [
+    {
+      "id": "Michael",
+      "score": 38200,
+      "adj": 28200
+    },
+    {
+      "id": "herricku",
+      "score": 25700,
+      "adj": 5700
+    },
+    {
+      "id": "Koga",
+      "score": 18200,
+      "adj": -11800
+    },
+    {
+      "id": "Matthew Tang",
+      "score": 17900,
+      "adj": -22100
+    }
+  ],
+  [
+    {
+      "id": "Kevin Neegooyen",
+      "score": 51600,
+      "adj": 41600
+    },
+    {
+      "id": "Michael",
+      "score": 31400,
+      "adj": 11400
+    },
+    {
+      "id": "Boeing797",
+      "score": 18800,
+      "adj": -11200
+    },
+    {
+      "id": "Sakei",
+      "score": -1800,
+      "adj": -41800
+    }
+  ],
+  [
+    {
+      "id": "alex",
+      "score": 33300,
+      "adj": 23300
+    },
+    {
+      "id": "uikyou",
+      "score": 30000,
+      "adj": 10000
+    },
+    {
+      "id": "Jolie",
+      "score": 20400,
+      "adj": -9600
+    },
+    {
+      "id": "Koga",
+      "score": 16300,
+      "adj": -23700
+    }
+  ],
+  [
+    {
+      "id": "bigjangles",
+      "score": 43700,
+      "adj": 33700
+    },
+    {
+      "id": "Hilda",
+      "score": 27300,
+      "adj": 7300
+    },
+    {
+      "id": "herricku",
+      "score": 25700,
+      "adj": -4300
+    },
+    {
+      "id": "Paul",
+      "score": 3300,
+      "adj": -36700
+    }
+  ],
+  [
+    {
+      "id": "bigjangles",
+      "score": 40900,
+      "adj": 30900
+    },
+    {
+      "id": "Sakei",
+      "score": 31200,
+      "adj": 11200
+    },
+    {
+      "id": "tarball",
+      "score": 29200,
+      "adj": -800
+    },
+    {
+      "id": "Jolie",
+      "score": -1300,
+      "adj": -41300
+    }
+  ],
+  [
+    {
+      "id": "Hilda",
+      "score": 36900,
+      "adj": 26900
+    },
+    {
+      "id": "Michael",
+      "score": 35200,
+      "adj": 15200
+    },
+    {
+      "id": "Koga",
+      "score": 26900,
+      "adj": -3100
+    },
+    {
+      "id": "Paul",
+      "score": 1000,
+      "adj": -39000
+    }
+  ],
+  [
+    {
+      "id": "uikyou",
+      "score": 38200,
+      "adj": 28200
+    },
+    {
+      "id": "danielq987",
+      "score": 38000,
+      "adj": 18000
+    },
+    {
+      "id": "Matthew Tang",
+      "score": 20900,
+      "adj": -9100
+    },
+    {
+      "id": "Boeing797",
+      "score": 2900,
+      "adj": -37100
+    }
+  ],
+  [
+    {
+      "id": "Michael",
+      "score": 37300,
+      "adj": 27300
+    },
+    {
+      "id": "danielq987",
+      "score": 35600,
+      "adj": 15600
+    },
+    {
+      "id": "Matthew Tang",
+      "score": 15400,
+      "adj": -14600
+    },
+    {
+      "id": "uikyou",
+      "score": 11700,
+      "adj": -28300
+    }
+  ],
+  [
+    {
+      "id": "Boeing797",
+      "score": 40100,
+      "adj": 30100
+    },
+    {
+      "id": "danielq987",
+      "score": 30300,
+      "adj": 10300
+    },
+    {
+      "id": "tarball",
+      "score": 26900,
+      "adj": -3100
+    },
+    {
+      "id": "Daniel (TORI)",
+      "score": 2700,
+      "adj": -37300
+    }
+  ],
+  [
+    {
+      "id": "bigjangles",
+      "score": 38000,
+      "adj": 28000
+    },
+    {
+      "id": "eternalvercty",
+      "score": 31600,
+      "adj": 11600
+    },
+    {
+      "id": "Daniel (TORI)",
+      "score": 25600,
+      "adj": -4400
+    },
+    {
+      "id": "Paul",
+      "score": 4800,
+      "adj": -35200
+    }
+  ],
+  [
+    {
+      "id": "alex",
+      "score": 36400,
+      "adj": 26400
+    },
+    {
+      "id": "uikyou",
+      "score": 32600,
+      "adj": 12600
+    },
+    {
+      "id": "tthegood",
+      "score": 15600,
+      "adj": -14400
+    },
+    {
+      "id": "danielq987",
+      "score": 15400,
+      "adj": -24600
+    }
+  ],
+  [
+    {
+      "id": "Jolie",
+      "score": 36400,
+      "adj": 26400
+    },
+    {
+      "id": "Michael",
+      "score": 34500,
+      "adj": 14500
+    },
+    {
+      "id": "Sakei",
+      "score": 34000,
+      "adj": 4000
+    },
+    {
+      "id": "Hilda",
+      "score": -4900,
+      "adj": -44900
+    }
+  ],
+  [
+    {
+      "id": "William",
+      "score": 36400,
+      "adj": 26400
+    },
+    {
+      "id": "Boeing797",
+      "score": 35500,
+      "adj": 15500
+    },
+    {
+      "id": "tarball",
+      "score": 17400,
+      "adj": -12600
+    },
+    {
+      "id": "Morax042",
+      "score": 10700,
+      "adj": -29300
+    }
+  ],
+  [
+    {
+      "id": "danielq987",
+      "score": 43700,
+      "adj": 33700
+    },
+    {
+      "id": "Jolie",
+      "score": 30700,
+      "adj": 10700
+    },
+    {
+      "id": "Ryan",
+      "score": 29600,
+      "adj": -400
+    },
+    {
+      "id": "Koga",
+      "score": -4000,
+      "adj": -44000
+    }
+  ],
+  [
+    {
+      "id": "Sakei",
+      "score": 36600,
+      "adj": 26600
+    },
+    {
+      "id": "Michael",
+      "score": 28300,
+      "adj": 8300
+    },
+    {
+      "id": "Paul",
+      "score": 23900,
+      "adj": -6100
+    },
+    {
+      "id": "Daniel (TORI)",
+      "score": 11200,
+      "adj": -28800
+    }
+  ],
+  [
+    {
+      "id": "uikyou",
+      "score": 77100,
+      "adj": 67100
+    },
+    {
+      "id": "Hilda",
+      "score": 17600,
+      "adj": -2400
+    },
+    {
+      "id": "Kevin Neegooyen",
+      "score": 7600,
+      "adj": -22400
+    },
+    {
+      "id": "Boeing797",
+      "score": -2300,
+      "adj": -42300
+    }
+  ],
+  [
+    {
+      "id": "Boeing797",
+      "score": 66900,
+      "adj": 56900
+    },
+    {
+      "id": "Michael",
+      "score": 18700,
+      "adj": -1300
+    },
+    {
+      "id": "uikyou",
+      "score": 14700,
+      "adj": -15300
+    },
+    {
+      "id": "Selina",
+      "score": -300,
+      "adj": -40300
+    }
+  ],
+  [
+    {
+      "id": "Sakei",
+      "score": 41100,
+      "adj": 31100
+    },
+    {
+      "id": "Ryan",
+      "score": 30900,
+      "adj": 10900
+    },
+    {
+      "id": "Hilda",
+      "score": 25700,
+      "adj": -4300
+    },
+    {
+      "id": "Jolie",
+      "score": 2300,
+      "adj": -37700
+    }
+  ],
+  [
+    {
+      "id": "danielq987",
+      "score": 33700,
+      "adj": 23700
+    },
+    {
+      "id": "Paul",
+      "score": 31400,
+      "adj": 11400
+    },
+    {
+      "id": "Kevin Neegooyen",
+      "score": 22100,
+      "adj": -7900
+    },
+    {
+      "id": "Koga",
+      "score": 12800,
+      "adj": -27200
+    }
+  ],
+  [
+    {
+      "id": "danielq987",
+      "score": 72900,
+      "adj": 62900
+    },
+    {
+      "id": "Michael",
+      "score": 23000,
+      "adj": 3000
+    },
+    {
+      "id": "Paul",
+      "score": 6200,
+      "adj": -23800
+    },
+    {
+      "id": "Koga",
+      "score": -2100,
+      "adj": -42100
+    }
+  ],
+  [
+    {
+      "id": "uikyou",
+      "score": 74900,
+      "adj": 64900
+    },
+    {
+      "id": "Boeing797",
+      "score": 17900,
+      "adj": -2100
+    },
+    {
+      "id": "Jolie",
+      "score": 7900,
+      "adj": -22100
+    },
+    {
+      "id": "Selina",
+      "score": -700,
+      "adj": -40700
+    }
+  ],
+  [
+    {
+      "id": "Kevin Neegooyen",
+      "score": 37800,
+      "adj": 27800
+    },
+    {
+      "id": "Ryan",
+      "score": 34300,
+      "adj": 14300
+    },
+    {
+      "id": "Sakei",
+      "score": 15300,
+      "adj": -14700
+    },
+    {
+      "id": "Matthew Tang",
+      "score": 12600,
+      "adj": -27400
+    }
+  ],
+  [
+    {
+      "id": "Michael",
+      "score": 40700,
+      "adj": 30700
+    },
+    {
+      "id": "Matthew Tang",
+      "score": 36900,
+      "adj": 16900
+    },
+    {
+      "id": "Paul",
+      "score": 25100,
+      "adj": -4900
+    },
+    {
+      "id": "Jolie",
+      "score": -2700,
+      "adj": -42700
+    }
+  ],
+  [
+    {
+      "id": "Sakei",
+      "score": 34600,
+      "adj": 24600
+    },
+    {
+      "id": "Selina",
+      "score": 24600,
+      "adj": 4600
+    },
+    {
+      "id": "uikyou",
+      "score": 22600,
+      "adj": -7400
+    },
+    {
+      "id": "Boeing797",
+      "score": 18200,
+      "adj": -21800
+    }
+  ],
+  [
+    {
+      "id": "tarball",
+      "score": 47200,
+      "adj": 37200
+    },
+    {
+      "id": "Rocraft_ (Eric)",
+      "score": 33200,
+      "adj": 13200
+    },
+    {
+      "id": "uikyou",
+      "score": 16800,
+      "adj": -13200
+    },
+    {
+      "id": "joshma",
+      "score": 2800,
+      "adj": -37200
+    }
+  ],
+  [
+    {
+      "id": "Michael",
+      "score": 56000,
+      "adj": 46000
+    },
+    {
+      "id": "Morax042",
+      "score": 25300,
+      "adj": 5300
+    },
+    {
+      "id": "tthegood",
+      "score": 11100,
+      "adj": -18900
+    },
+    {
+      "id": "eternalvercty",
+      "score": 7600,
+      "adj": -32400
+    }
+  ],
+  [
+    {
+      "id": "uikyou",
+      "score": 31800,
+      "adj": 21800
+    },
+    {
+      "id": "Sakei",
+      "score": 29100,
+      "adj": 9100
+    },
+    {
+      "id": "Rohit",
+      "score": 22200,
+      "adj": -7800
+    },
+    {
+      "id": "Paul",
+      "score": 16900,
+      "adj": -23100
+    }
+  ],
+  [
+    {
+      "id": "DylanP10",
+      "score": 41300,
+      "adj": 31300
+    },
+    {
+      "id": "danielq987",
+      "score": 24400,
+      "adj": 4400
+    },
+    {
+      "id": "alex",
+      "score": 20800,
+      "adj": -9200
+    },
+    {
+      "id": "tarball",
+      "score": 13500,
+      "adj": -26500
+    }
+  ],
+  [
+    {
+      "id": "Boeing797",
+      "score": 37300,
+      "adj": 27300
+    },
+    {
+      "id": "Jolie",
+      "score": 35700,
+      "adj": 15700
+    },
+    {
+      "id": "Hilda",
+      "score": 20000,
+      "adj": -10000
+    },
+    {
+      "id": "Ryan",
+      "score": 7000,
+      "adj": -33000
+    }
+  ],
+  [
+    {
+      "id": "Michael",
+      "score": 38100,
+      "adj": 28100
+    },
+    {
+      "id": "Sakei",
+      "score": 29400,
+      "adj": 9400
+    },
+    {
+      "id": "Ryan",
+      "score": 27100,
+      "adj": -2900
+    },
+    {
+      "id": "Hilda",
+      "score": 5400,
+      "adj": -34600
+    }
+  ],
+  [
+    {
+      "id": "uikyou",
+      "score": 48600,
+      "adj": 38600
+    },
+    {
+      "id": "Jolie",
+      "score": 30400,
+      "adj": 10400
+    },
+    {
+      "id": "DylanP10",
+      "score": 17800,
+      "adj": -12200
+    },
+    {
+      "id": "Boeing797",
+      "score": 3200,
+      "adj": -36800
+    }
+  ],
+  [
+    {
+      "id": "Rohit",
+      "score": 31300,
+      "adj": 21300
+    },
+    {
+      "id": "danielq987",
+      "score": 26400,
+      "adj": 6400
+    },
+    {
+      "id": "alex",
+      "score": 23000,
+      "adj": -7000
+    },
+    {
+      "id": "Paul",
+      "score": 19300,
+      "adj": -20700
+    }
+  ],
+  [
+    {
+      "id": "uikyou",
+      "score": 48800,
+      "adj": 38800
+    },
+    {
+      "id": "Rohit",
+      "score": 33600,
+      "adj": 13600
+    },
+    {
+      "id": "Boeing797",
+      "score": 23100,
+      "adj": -6900
+    },
+    {
+      "id": "Sakei",
+      "score": -5500,
+      "adj": -45500
+    }
+  ],
+  [
+    {
+      "id": "Paul",
+      "score": 74200,
+      "adj": 64200
+    },
+    {
+      "id": "DylanP10",
+      "score": 26900,
+      "adj": 6900
+    },
+    {
+      "id": "Michael",
+      "score": 19900,
+      "adj": -10100
+    },
+    {
+      "id": "Hilda",
+      "score": -21000,
+      "adj": -61000
+    }
+  ],
+  [
+    {
+      "id": "Ryan",
+      "score": 34700,
+      "adj": 24700
+    },
+    {
+      "id": "Matthew Tang",
+      "score": 29000,
+      "adj": 9000
+    },
+    {
+      "id": "danielq987",
+      "score": 20400,
+      "adj": -9600
+    },
+    {
+      "id": "Jolie",
+      "score": 15900,
+      "adj": -24100
+    }
+  ],
+  [
+    {
+      "id": "joshma",
+      "score": 37700,
+      "adj": 27700
+    },
+    {
+      "id": "Rohit",
+      "score": 33600,
+      "adj": 13600
+    },
+    {
+      "id": "Chris",
+      "score": 21300,
+      "adj": -8700
+    },
+    {
+      "id": "joey",
+      "score": 7400,
+      "adj": -32600
+    }
+  ],
+  [
+    {
+      "id": "eno-ow-zz",
+      "score": 40500,
+      "adj": 30500
+    },
+    {
+      "id": "Nauxzd",
+      "score": 35700,
+      "adj": 15700
+    },
+    {
+      "id": "lele",
+      "score": 24400,
+      "adj": -5600
+    },
+    {
+      "id": "Rohit",
+      "score": -600,
+      "adj": -40600
+    }
+  ],
+  [
+    {
+      "id": "Chris",
+      "score": 35800,
+      "adj": 25800
+    },
+    {
+      "id": "Morax042",
+      "score": 33800,
+      "adj": 13800
+    },
+    {
+      "id": "eternalvercty",
+      "score": 18900,
+      "adj": -11100
+    },
+    {
+      "id": "Snorlax",
+      "score": 11500,
+      "adj": -28500
+    }
+  ],
+  [
+    {
+      "id": "Jolie",
+      "score": 60700,
+      "adj": 50700
+    },
+    {
+      "id": "Matthew Tang",
+      "score": 34400,
+      "adj": 14400
+    },
+    {
+      "id": "Olivia",
+      "score": 9700,
+      "adj": -20300
+    },
+    {
+      "id": "CL5998",
+      "score": -4800,
+      "adj": -44800
+    }
+  ],
+  [
+    {
+      "id": "Chris",
+      "score": 55200,
+      "adj": 45200
+    },
+    {
+      "id": "Hilda",
+      "score": 26500,
+      "adj": 6500
+    },
+    {
+      "id": "Michael",
+      "score": 18400,
+      "adj": -11600
+    },
+    {
+      "id": "joey",
+      "score": -100,
+      "adj": -40100
+    }
+  ],
+  [
+    {
+      "id": "Hilda",
+      "score": 44700,
+      "adj": 34700
+    },
+    {
+      "id": "Chris",
+      "score": 27000,
+      "adj": 7000
+    },
+    {
+      "id": "Michael",
+      "score": 26500,
+      "adj": -3500
+    },
+    {
+      "id": "joey",
+      "score": 1800,
+      "adj": -38200
+    }
+  ],
+  [
+    {
+      "id": "Matthew Tang",
+      "score": 35200,
+      "adj": 25200
+    },
+    {
+      "id": "tarball",
+      "score": 34400,
+      "adj": 14400
+    },
+    {
+      "id": "Snorlax",
+      "score": 24600,
+      "adj": -5400
+    },
+    {
+      "id": "danielq987",
+      "score": 5800,
+      "adj": -34200
+    }
+  ],
+  [
+    {
+      "id": "Adrian",
+      "score": 32800,
+      "adj": 22800
+    },
+    {
+      "id": "Hilda",
+      "score": 25600,
+      "adj": 5600
+    },
+    {
+      "id": "Poppy",
+      "score": 22900,
+      "adj": -7100
+    },
+    {
+      "id": "Sakei",
+      "score": 18700,
+      "adj": -21300
+    }
+  ],
+  [
+    {
+      "id": "danielq987",
+      "score": 47800,
+      "adj": 37800
+    },
+    {
+      "id": "Latecat",
+      "score": 21100,
+      "adj": 1100
+    },
+    {
+      "id": "Matthew Tang",
+      "score": 19300,
+      "adj": -10700
+    },
+    {
+      "id": "Chris",
+      "score": 11800,
+      "adj": -28200
+    }
+  ],
+  [
+    {
+      "id": "eno-ow-zz",
+      "score": 35500,
+      "adj": 25500
+    },
+    {
+      "id": "danielq987",
+      "score": 32900,
+      "adj": 12900
+    },
+    {
+      "id": "Koga",
+      "score": 27000,
+      "adj": -3000
+    },
+    {
+      "id": "Adrian",
+      "score": 4600,
+      "adj": -35400
+    }
+  ],
+  [
+    {
+      "id": "Chris",
+      "score": 41900,
+      "adj": 31900
+    },
+    {
+      "id": "Latecat",
+      "score": 25900,
+      "adj": 5900
+    },
+    {
+      "id": "Poppy",
+      "score": 18400,
+      "adj": -11600
+    },
+    {
+      "id": "Viona",
+      "score": 13800,
+      "adj": -26200
+    }
+  ],
+  [
+    {
+      "id": "Latecat",
+      "score": 39100,
+      "adj": 29100
+    },
+    {
+      "id": "danielq987",
+      "score": 37800,
+      "adj": 17800
+    },
+    {
+      "id": "eno-ow-zz",
+      "score": 24900,
+      "adj": -5100
+    },
+    {
+      "id": "Michael",
+      "score": -1800,
+      "adj": -41800
+    }
+  ],
+  [
+    {
+      "id": "Adrian",
+      "score": 40100,
+      "adj": 30100
+    },
+    {
+      "id": "Chris",
+      "score": 29800,
+      "adj": 9800
+    },
+    {
+      "id": "Koga",
+      "score": 19700,
+      "adj": -10300
+    },
+    {
+      "id": "Sakei",
+      "score": 10400,
+      "adj": -29600
+    }
+  ],
+  [
+    {
+      "id": "Hilda",
+      "score": 41700,
+      "adj": 31700
+    },
+    {
+      "id": "Poppy",
+      "score": 33700,
+      "adj": 13700
+    },
+    {
+      "id": "ericJiang",
+      "score": 12900,
+      "adj": -17100
+    },
+    {
+      "id": "Viona",
+      "score": 11700,
+      "adj": -28300
+    }
+  ],
+  [
+    {
+      "id": "Ryan",
+      "score": 57000,
+      "adj": 47000
+    },
+    {
+      "id": "herricku",
+      "score": 29000,
+      "adj": 9000
+    },
+    {
+      "id": "Eric",
+      "score": 8000,
+      "adj": -22000
+    },
+    {
+      "id": "eno-ow-zz",
+      "score": 6000,
+      "adj": -34000
+    }
+  ],
+  [
+    {
+      "id": "Matthew Tang",
+      "score": 34500,
+      "adj": 24500
+    },
+    {
+      "id": "Koga",
+      "score": 27800,
+      "adj": 7800
+    },
+    {
+      "id": "Viona",
+      "score": 24100,
+      "adj": -5900
+    },
+    {
+      "id": "mizukuru",
+      "score": 13600,
+      "adj": -26400
+    }
+  ],
+  [
+    {
+      "id": "Viona",
+      "score": 31900,
+      "adj": 21900
+    },
+    {
+      "id": "Rohit",
+      "score": 26100,
+      "adj": 6100
+    },
+    {
+      "id": "Ohararinne",
+      "score": 21300,
+      "adj": -8700
+    },
+    {
+      "id": "mizukuru",
+      "score": 20700,
+      "adj": -19300
+    }
+  ],
+  [
+    {
+      "id": "Ryan",
+      "score": 41800,
+      "adj": 31800
+    },
+    {
+      "id": "Chrisss",
+      "score": 31100,
+      "adj": 11100
+    },
+    {
+      "id": "Ohararinne",
+      "score": 17500,
+      "adj": -12500
+    },
+    {
+      "id": "mizukuru",
+      "score": 9600,
+      "adj": -30400
+    }
+  ],
+  [
+    {
+      "id": "danielq987",
+      "score": 47900,
+      "adj": 37900
+    },
+    {
+      "id": "Rohit",
+      "score": 42100,
+      "adj": 22100
+    },
+    {
+      "id": "herricku",
+      "score": 12300,
+      "adj": -17700
+    },
+    {
+      "id": "Eric",
+      "score": -2300,
+      "adj": -42300
+    }
+  ],
+  [
+    {
+      "id": "Koga",
+      "score": 42400,
+      "adj": 32400
+    },
+    {
+      "id": "Ohararinne",
+      "score": 25900,
+      "adj": 900
+    },
+    {
+      "id": "Viona",
+      "score": 25900,
+      "adj": 900
+    },
+    {
+      "id": "Hilda",
+      "score": 5800,
+      "adj": -34200
+    }
+  ],
+  [
+    {
+      "id": "Rohit",
+      "score": 43900,
+      "adj": 33900
+    },
+    {
+      "id": "BallosB",
+      "score": 28800,
+      "adj": 8800
+    },
+    {
+      "id": "Ohararinne",
+      "score": 15400,
+      "adj": -14600
+    },
+    {
+      "id": "James",
+      "score": 11900,
+      "adj": -28100
+    }
+  ],
+  [
+    {
+      "id": "Rohit",
+      "score": 45700,
+      "adj": 35700
+    },
+    {
+      "id": "Hoyin",
+      "score": 27700,
+      "adj": 7700
+    },
+    {
+      "id": "Ryan",
+      "score": 15500,
+      "adj": -14500
+    },
+    {
+      "id": "Tailai",
+      "score": 11100,
+      "adj": -28900
+    }
+  ],
+  [
+    {
+      "id": "Ryan",
+      "score": 39400,
+      "adj": 29400
+    },
+    {
+      "id": "Latecat",
+      "score": 33000,
+      "adj": 13000
+    },
+    {
+      "id": "eno-ow-zz",
+      "score": 28600,
+      "adj": -1400
+    },
+    {
+      "id": "herricku",
+      "score": -1000,
+      "adj": -41000
+    }
+  ],
+  [
+    {
+      "id": "Latecat",
+      "score": 38000,
+      "adj": 28000
+    },
+    {
+      "id": "eno-ow-zz",
+      "score": 33300,
+      "adj": 13300
+    },
+    {
+      "id": "herricku",
+      "score": 32000,
+      "adj": 2000
+    },
+    {
+      "id": "Ryan",
+      "score": -3300,
+      "adj": -43300
+    }
+  ],
+  [
+    {
+      "id": "Eric",
+      "score": 57000,
+      "adj": 47000
+    },
+    {
+      "id": "Ohararinne",
+      "score": 30900,
+      "adj": 10900
+    },
+    {
+      "id": "Matthew Tang",
+      "score": 11100,
+      "adj": -18900
+    },
+    {
+      "id": "Elegant",
+      "score": 1000,
+      "adj": -39000
+    }
+  ],
+  [
+    {
+      "id": "riichinya",
+      "score": 39000,
+      "adj": 29000
+    },
+    {
+      "id": "Rohit",
+      "score": 37700,
+      "adj": 17700
+    },
+    {
+      "id": "sabres77",
+      "score": 33200,
+      "adj": 3200
+    },
+    {
+      "id": "Hoyin",
+      "score": -9900,
+      "adj": -49900
+    }
+  ],
+  [
+    {
+      "id": "herricku",
+      "score": 50500,
+      "adj": 40500
+    },
+    {
+      "id": "danielq987",
+      "score": 33700,
+      "adj": 13700
+    },
+    {
+      "id": "Ryan",
+      "score": 17000,
+      "adj": -13000
+    },
+    {
+      "id": "Rohit",
+      "score": -1200,
+      "adj": -41200
+    }
+  ],
+  [
+    {
+      "id": "Ryan",
+      "score": 34000,
+      "adj": 24000
+    },
+    {
+      "id": "danielq987",
+      "score": 32200,
+      "adj": 12200
+    },
+    {
+      "id": "herricku",
+      "score": 25200,
+      "adj": -4800
+    },
+    {
+      "id": "Rohit",
+      "score": 8600,
+      "adj": -31400
+    }
+  ],
+  [
+    {
+      "id": "Matthew Tang",
+      "score": 35200,
+      "adj": 25200
+    },
+    {
+      "id": "Latecat",
+      "score": 27100,
+      "adj": 7100
+    },
+    {
+      "id": "Ryan",
+      "score": 21100,
+      "adj": -8900
+    },
+    {
+      "id": "Ohararinne",
+      "score": 16600,
+      "adj": -23400
+    }
+  ]
+]
