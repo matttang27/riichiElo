@@ -16,4 +16,3 @@ string.split('\n')                                 // one line per player
     });
 
 console.log(obj);
-console.log(obj["Ryan"])

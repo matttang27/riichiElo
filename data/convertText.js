@@ -1,7 +1,11 @@
-const { readFile, writeFile } = require("fs/promises");
+const fs = require('fs');
 
-async function filter() {
-	const raw = await readFile("./original.json", "utf8");
+// Note that a lot of text was manually changed, this is just a helper
+// fixed.json contains the cleaned up data.
+
+//Filter + Clean removes messages that do not have 4 '@' characters and removes "(edited)" from the messages
+function filter() {
+	const raw = fs.readFileSync("./original.json", "utf8");
 	const data = JSON.parse(raw);
 
 	const atCountSummary = {};
@@ -17,21 +21,22 @@ async function filter() {
 		return count === 4;
 	});
 
-	await writeFile("./filtered.json", JSON.stringify(cleanedData, null, 2), "utf8");
+	fs.writeFileSync("./filtered.json", JSON.stringify(cleanedData, null, 2), "utf8");
 
 	return filteredData;
 }
 
-async function clean(path) {
-	const raw = await readFile(path, "utf8");
+function clean(path) {
+	const raw = fs.readFileSync(path, "utf8");
 	const filteredData = JSON.parse(raw);
 	const cleanedData = filteredData.map((str) => str.replace(/\(edited\)/g, ""));
 
-	await writeFile("./cleaned.json", JSON.stringify(cleanedData, null, 2), "utf8");
+	fs.writeFileSync("./cleaned.json", JSON.stringify(cleanedData, null, 2), "utf8");
 }
 
 /**
- *
+ * To be a valid game, each string must have 4 players, with no space between the '@' and the name.
+ * Each player must have a score, which can be an integer or a float.
  * @param {string[]} games
  */
 function stringsToObject(games) {
@@ -59,8 +64,9 @@ function stringsToObject(games) {
 	return parsed;
 }
 
-async function fix() {
-	const raw = await readFile("./filtered.json", "utf8");
+// Converts the strings to objects, counting how many times each player appears
+function convert() {
+	const raw = fs.readFileSync("./filtered.json", "utf8");
 	const data = JSON.parse(raw);
 	const counts = {};
 
@@ -72,6 +78,15 @@ async function fix() {
 			counts[name] = (counts[name] || 0) + 1;
 		});
 	});
+
+	fs.writeFileSync("./converted.json", JSON.stringify(games, null, 2), "utf8");
+}
+
+// Multiplies float scores by 1000.
+// If the sum of scores is not 100000, adjusts the scores evenly so that they sum to 100000.
+function fix() {
+	const raw = fs.readFileSync("./converted.json", "utf8");
+	const games = JSON.parse(raw);
 
 	//for each game, check if scores sum up to 100 or 100000. If they sum up to 100, multiply by 1000. If they do not sum up, print the game and sum
 	games.forEach((game, index) => {
@@ -147,12 +162,12 @@ async function fix() {
 		}
 	});
 
-	// Write the adjusted games back to a file
-	await writeFile("./fixed.json", JSON.stringify(games, null, 2), "utf8");
+	fs.writeFileSync("./fixed.json", JSON.stringify(games, null, 2), "utf8");
 }
 
-async function adjust() {
-    const raw = await readFile("./fixed.json", "utf8");
+//add uma and rank
+function adjust() {
+	const raw = fs.readFileSync("./fixed.json", "utf8");
 
 	const games = JSON.parse(raw);
 
@@ -194,6 +209,10 @@ async function adjust() {
 		];
 
 		players.sort((a, b) => b.score - a.score);
+		players.forEach((player, index) => {
+			player.rank = index + 1; // Assign ranks based on sorted order
+			player.adj = player.score; // Initialize adjusted score to raw score
+		});
 
 		//allocating uma, splitting if needed (big brain technique used ngl)
 		for (let i = 0; i < players.length; i++) {
@@ -222,5 +241,33 @@ async function adjust() {
 
 	console.log(adjustedGames);
 
-    await writeFile("./adjusted.json", JSON.stringify(adjustedGames, null, 2), "utf8");
+	fs.writeFileSync("./adjusted.json", JSON.stringify(adjustedGames, null, 2), "utf8");
 }
+
+//converts the rawRanks.txt file to a rank object json
+function rawToRank() {
+	const lines = fs.readFileSync("./rawRanks.txt", "utf8")
+		.split(/\r?\n/)
+		.filter((line) => line.trim().length);
+
+	const rankPattern = /^[A-Za-z]+\d+$/; // e.g. "E3", "M2", but NOT "5" or "123"
+
+	const result = {};
+
+	for (let line of lines) {
+		const [rawName, rawVal] = line.split(":").map((s) => s.trim());
+		if (!rawName || !rawVal) continue;
+
+		if (rankPattern.test(rawVal)) {
+			result[rawName] = rawVal;
+		}
+	}
+	fs.writeFileSync("./ranks.json", JSON.stringify(result, null, 2), "utf8");
+}
+
+//filter()
+//clean()
+//convert()
+//fix()
+//adjust();
+rawToRank();

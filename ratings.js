@@ -7,17 +7,35 @@ const ADJ_CONSTANT = 40; // Used in adjustment calculation
 
 /**
  * @typedef {Object} Player
- * @property {number} r - Player's current rating
- * @property {number} n - Number of games played
- * @property {number} t - Total adjusted score
+ * @property {number} rating - Player's current rating
+ * @property {number} gamesPlayed - Number of games played
+ * @property {number} totalAdj - Total adjusted score
+ * @property {number} totalRank - Sum of ranks
  */
 
+/**
+ * @typedef {Object} GamePlayer
+ * @property {string} id - Player's ID
+ * @property {number} score - Player's score
+ * @property {number} adj - Player's adjusted score
+ * @property {number} rank - Player's rank in the game
+ */
+
+function convertGame(game) {
+    
+}
 /**
  * @type {Map<string, Player>}
  */
 let players = new Map();
 
-
+/**
+ * @param {Array<{ player: Player, score: number, adj: number, rank: number }} game 
+ * Updates the ratings of players based on the game results.
+ */
+function updateRatings(game) {
+    
+}
 
 function getPlayer(id) {
   if (!players.has(id)) {
@@ -26,9 +44,15 @@ function getPlayer(id) {
   return players.get(id);
 }
 
+/**
+ * 
+ * @param {Array<{ id: string, score: number, adj: number }>} game 
+ */
 function updateGame(game) {
   // 1) Sort by raw score descending
   game.sort((a, b) => b.score - a.score);
+
+
 
   // 2) Pre-compute table average rating
   const Rs = game.map(p => getPlayer(p.id).r);
@@ -120,12 +144,7 @@ function runSeason(allGames) {
      * @type {Array<Array<{ id: string, score: number, adj: number }>>}
      */
     const games = JSON.parse(raw);
-    // player: id, rating, games played, total adjusted score
-    /**
-     * @type {Map<string, number, number, number>}
-     */
-
-    const players = new Map();
+    
     games.forEach((game) => {
         game.forEach((player) => {
             const { id, adj } = player;

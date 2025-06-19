@@ -3,3212 +3,3796 @@
     {
       "id": "Paul",
       "score": 40100,
-      "adj": 30100
+      "adj": 30100,
+      "rank": 1
     },
     {
       "id": "Andy",
       "score": 29000,
-      "adj": 9000
+      "adj": 9000,
+      "rank": 2
     },
     {
       "id": "yzsan",
       "score": 15800,
-      "adj": -14200
+      "adj": -14200,
+      "rank": 3
     },
     {
       "id": "Rocraft_ (Eric)",
       "score": 15100,
-      "adj": -24900
+      "adj": -24900,
+      "rank": 4
     }
   ],
   [
     {
       "id": "NoobWind",
       "score": 40900,
-      "adj": 30900
+      "adj": 30900,
+      "rank": 1
     },
     {
       "id": "Paul",
       "score": 24500,
-      "adj": 4500
+      "adj": 4500,
+      "rank": 2
     },
     {
       "id": "Zeliang",
       "score": 18500,
-      "adj": -11500
+      "adj": -11500,
+      "rank": 3
     },
     {
       "id": "Andy",
       "score": 16100,
-      "adj": -23900
+      "adj": -23900,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Rocraft_ (Eric)",
       "score": 47300,
-      "adj": 37300
+      "adj": 37300,
+      "rank": 1
     },
     {
       "id": "Boeing797",
       "score": 19300,
-      "adj": -700
+      "adj": -700,
+      "rank": 2
     },
     {
       "id": "NoobWind",
       "score": 17400,
-      "adj": -12600
+      "adj": -12600,
+      "rank": 3
     },
     {
       "id": "Ryan",
       "score": 16000,
-      "adj": -24000
+      "adj": -24000,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Michael",
       "score": 40700,
-      "adj": 30700
+      "adj": 30700,
+      "rank": 1
     },
     {
       "id": "Paul",
       "score": 24900,
-      "adj": 4900
+      "adj": 4900,
+      "rank": 2
     },
     {
       "id": "Koga",
       "score": 19000,
-      "adj": -11000
+      "adj": -11000,
+      "rank": 3
     },
     {
       "id": "kev",
       "score": 15400,
-      "adj": -24600
+      "adj": -24600,
+      "rank": 4
     }
   ],
   [
     {
       "id": "herricku",
       "score": 51400,
-      "adj": 41400
+      "adj": 41400,
+      "rank": 1
     },
     {
       "id": "Koga",
       "score": 19500,
-      "adj": -500
+      "adj": -500,
+      "rank": 2
     },
     {
       "id": "Paul",
       "score": 18500,
-      "adj": -11500
+      "adj": -11500,
+      "rank": 3
     },
     {
       "id": "Ryan",
       "score": 10600,
-      "adj": -29400
+      "adj": -29400,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Ryan",
       "score": 59800,
-      "adj": 49800
+      "adj": 49800,
+      "rank": 1
     },
     {
       "id": "herricku",
       "score": 23400,
-      "adj": 3400
+      "adj": 3400,
+      "rank": 2
     },
     {
       "id": "Koga",
       "score": 11700,
-      "adj": -18300
+      "adj": -18300,
+      "rank": 3
     },
     {
       "id": "Paul",
       "score": 5100,
-      "adj": -34900
+      "adj": -34900,
+      "rank": 4
     }
   ],
   [
     {
       "id": "herricku",
       "score": 58600,
-      "adj": 48600
+      "adj": 48600,
+      "rank": 1
     },
     {
       "id": "Andy",
       "score": 23100,
-      "adj": -1900
+      "adj": -1900,
+      "rank": 2
     },
     {
       "id": "Paul",
       "score": 23100,
-      "adj": -1900
+      "adj": -1900,
+      "rank": 3
     },
     {
       "id": "Daniel D.",
       "score": -4800,
-      "adj": -44800
+      "adj": -44800,
+      "rank": 4
     }
   ],
   [
     {
       "id": "階段降りれる空丸",
       "score": 37900,
-      "adj": 27900
+      "adj": 27900,
+      "rank": 1
     },
     {
       "id": "Ryan",
       "score": 37500,
-      "adj": 17500
+      "adj": 17500,
+      "rank": 2
     },
     {
       "id": "yzsan",
       "score": 27500,
-      "adj": -2500
+      "adj": -2500,
+      "rank": 3
     },
     {
       "id": "kev",
       "score": -2900,
-      "adj": -42900
+      "adj": -42900,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Andy",
       "score": 55300,
-      "adj": 45300
+      "adj": 45300,
+      "rank": 1
     },
     {
       "id": "herricku",
       "score": 21100,
-      "adj": 1100
+      "adj": 1100,
+      "rank": 2
     },
     {
       "id": "NoobWind",
       "score": 16900,
-      "adj": -13100
+      "adj": -13100,
+      "rank": 3
     },
     {
       "id": "kev",
       "score": 6700,
-      "adj": -33300
+      "adj": -33300,
+      "rank": 4
     }
   ],
   [
     {
       "id": "br0mabs",
       "score": 50200,
-      "adj": 40200
+      "adj": 40200,
+      "rank": 1
     },
     {
       "id": "llawro",
       "score": 32000,
-      "adj": 12000
+      "adj": 12000,
+      "rank": 2
     },
     {
       "id": "階段降りれる空丸",
       "score": 10400,
-      "adj": -19600
+      "adj": -19600,
+      "rank": 3
     },
     {
       "id": "Paul",
       "score": 7400,
-      "adj": -32600
+      "adj": -32600,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Michael",
       "score": 32900,
-      "adj": 22900
+      "adj": 22900,
+      "rank": 1
     },
     {
       "id": "NoobWind",
       "score": 26200,
-      "adj": 6200
+      "adj": 6200,
+      "rank": 2
     },
     {
       "id": "Ryan",
       "score": 23700,
-      "adj": -6300
+      "adj": -6300,
+      "rank": 3
     },
     {
       "id": "kev",
       "score": 17200,
-      "adj": -22800
+      "adj": -22800,
+      "rank": 4
     }
   ],
   [
     {
       "id": "herricku",
       "score": 48900,
-      "adj": 38900
+      "adj": 38900,
+      "rank": 1
     },
     {
       "id": "Zeliang",
       "score": 26500,
-      "adj": 6500
+      "adj": 6500,
+      "rank": 2
     },
     {
       "id": "Rocraft_ (Eric)",
       "score": 19700,
-      "adj": -10300
+      "adj": -10300,
+      "rank": 3
     },
     {
       "id": "Paul",
       "score": 4900,
-      "adj": -35100
+      "adj": -35100,
+      "rank": 4
     }
   ],
   [
     {
       "id": "NoobWind",
       "score": 40500,
-      "adj": 30500
+      "adj": 30500,
+      "rank": 1
     },
     {
       "id": "kev",
       "score": 39900,
-      "adj": 19900
+      "adj": 19900,
+      "rank": 2
     },
     {
       "id": "Michael",
       "score": 20900,
-      "adj": -9100
+      "adj": -9100,
+      "rank": 3
     },
     {
       "id": "Ryan",
       "score": -1300,
-      "adj": -41300
+      "adj": -41300,
+      "rank": 4
     }
   ],
   [
     {
       "id": "herricku",
       "score": 43000,
-      "adj": 33000
+      "adj": 33000,
+      "rank": 1
     },
     {
       "id": "Ryan",
       "score": 40200,
-      "adj": 20200
+      "adj": 20200,
+      "rank": 2
     },
     {
       "id": "kev",
       "score": 23600,
-      "adj": -6400
+      "adj": -6400,
+      "rank": 3
     },
     {
       "id": "Paul",
       "score": -6800,
-      "adj": -46800
+      "adj": -46800,
+      "rank": 4
     }
   ],
   [
     {
       "id": "NoobWind",
       "score": 50000,
-      "adj": 40000
+      "adj": 40000,
+      "rank": 1
     },
     {
       "id": "Boeing797",
       "score": 21900,
-      "adj": 1900
+      "adj": 1900,
+      "rank": 2
     },
     {
       "id": "Rocraft_ (Eric)",
       "score": 21100,
-      "adj": -8900
+      "adj": -8900,
+      "rank": 3
     },
     {
       "id": "Andy",
       "score": 7000,
-      "adj": -33000
+      "adj": -33000,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Rocraft_ (Eric)",
       "score": 44200,
-      "adj": 34200
+      "adj": 34200,
+      "rank": 1
     },
     {
       "id": "Ryan",
       "score": 29800,
-      "adj": 9800
+      "adj": 9800,
+      "rank": 2
     },
     {
       "id": "Boeing797",
       "score": 17000,
-      "adj": -13000
+      "adj": -13000,
+      "rank": 3
     },
     {
       "id": "Zakura2357",
       "score": 9000,
-      "adj": -31000
+      "adj": -31000,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Michael",
       "score": 42600,
-      "adj": 32600
+      "adj": 32600,
+      "rank": 1
     },
     {
       "id": "NoobWind",
       "score": 40400,
-      "adj": 20400
+      "adj": 20400,
+      "rank": 2
     },
     {
       "id": "Zeliang",
       "score": 19800,
-      "adj": -10200
+      "adj": -10200,
+      "rank": 3
     },
     {
       "id": "階段降りれる空丸",
       "score": -2800,
-      "adj": -42800
+      "adj": -42800,
+      "rank": 4
     }
   ],
   [
     {
       "id": "herricku",
       "score": 41200,
-      "adj": 31200
+      "adj": 31200,
+      "rank": 1
     },
     {
       "id": "Paul",
       "score": 37700,
-      "adj": 17700
+      "adj": 17700,
+      "rank": 2
     },
     {
       "id": "Koga",
       "score": 20100,
-      "adj": -9900
+      "adj": -9900,
+      "rank": 3
     },
     {
       "id": "Andy",
       "score": 1000,
-      "adj": -39000
+      "adj": -39000,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Zeliang",
       "score": 46400,
-      "adj": 36400
+      "adj": 36400,
+      "rank": 1
     },
     {
       "id": "herricku",
       "score": 30000,
-      "adj": 10000
+      "adj": 10000,
+      "rank": 2
     },
     {
       "id": "Ryan",
       "score": 13600,
-      "adj": -16400
+      "adj": -16400,
+      "rank": 3
     },
     {
       "id": "Paul",
       "score": 10000,
-      "adj": -30000
+      "adj": -30000,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Zakura2357",
       "score": 50000,
-      "adj": 40000
+      "adj": 40000,
+      "rank": 1
     },
     {
       "id": "Michael",
       "score": 41800,
-      "adj": 21800
+      "adj": 21800,
+      "rank": 2
     },
     {
       "id": "Koga",
       "score": 9800,
-      "adj": -20200
+      "adj": -20200,
+      "rank": 3
     },
     {
       "id": "NoobWind",
       "score": -1600,
-      "adj": -41600
+      "adj": -41600,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Koga",
       "score": 41300,
-      "adj": 31300
+      "adj": 31300,
+      "rank": 1
     },
     {
       "id": "Paul",
       "score": 31500,
-      "adj": 11500
+      "adj": 11500,
+      "rank": 2
     },
     {
       "id": "Ryan",
       "score": 17300,
-      "adj": -12700
+      "adj": -12700,
+      "rank": 3
     },
     {
       "id": "Zakura2357",
       "score": 9900,
-      "adj": -30100
+      "adj": -30100,
+      "rank": 4
     }
   ],
   [
     {
       "id": "NoobWind",
       "score": 59300,
-      "adj": 49300
+      "adj": 49300,
+      "rank": 1
     },
     {
       "id": "Michael",
       "score": 23000,
-      "adj": 3000
+      "adj": 3000,
+      "rank": 2
     },
     {
       "id": "Zeliang",
       "score": 18300,
-      "adj": -11700
+      "adj": -11700,
+      "rank": 3
     },
     {
       "id": "herricku",
       "score": -600,
-      "adj": -40600
+      "adj": -40600,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Ryan",
       "score": 55100,
-      "adj": 45100
+      "adj": 45100,
+      "rank": 1
     },
     {
       "id": "Michael",
       "score": 26900,
-      "adj": 6900
+      "adj": 6900,
+      "rank": 2
     },
     {
       "id": "Zeliang",
       "score": 24000,
-      "adj": -6000
+      "adj": -6000,
+      "rank": 3
     },
     {
       "id": "Koga",
       "score": -6000,
-      "adj": -46000
+      "adj": -46000,
+      "rank": 4
     }
   ],
   [
     {
       "id": "NoobWind",
       "score": 50500,
-      "adj": 40500
+      "adj": 40500,
+      "rank": 1
     },
     {
       "id": "herricku",
       "score": 46600,
-      "adj": 26600
+      "adj": 26600,
+      "rank": 2
     },
     {
       "id": "Zakura2357",
       "score": 10200,
-      "adj": -19800
+      "adj": -19800,
+      "rank": 3
     },
     {
       "id": "Paul",
       "score": -7300,
-      "adj": -47300
+      "adj": -47300,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Zeliang",
       "score": 43800,
-      "adj": 33800
+      "adj": 33800,
+      "rank": 1
     },
     {
       "id": "NoobWind",
       "score": 39500,
-      "adj": 19500
+      "adj": 19500,
+      "rank": 2
     },
     {
       "id": "Zakura2357",
       "score": 31700,
-      "adj": 1700
+      "adj": 1700,
+      "rank": 3
     },
     {
       "id": "Ryan",
       "score": -15000,
-      "adj": -55000
+      "adj": -55000,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Koga",
       "score": 46600,
-      "adj": 36600
+      "adj": 36600,
+      "rank": 1
     },
     {
       "id": "herricku",
       "score": 44400,
-      "adj": 24400
+      "adj": 24400,
+      "rank": 2
     },
     {
       "id": "Michael",
       "score": 19000,
-      "adj": -11000
+      "adj": -11000,
+      "rank": 3
     },
     {
       "id": "Paul",
       "score": -10000,
-      "adj": -50000
+      "adj": -50000,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Koga",
       "score": 42500,
-      "adj": 32500
+      "adj": 32500,
+      "rank": 1
     },
     {
       "id": "herricku",
       "score": 38200,
-      "adj": 18200
+      "adj": 18200,
+      "rank": 2
     },
     {
       "id": "Paul",
       "score": 13800,
-      "adj": -16200
+      "adj": -16200,
+      "rank": 3
     },
     {
       "id": "NoobWind",
       "score": 5500,
-      "adj": -34500
+      "adj": -34500,
+      "rank": 4
     }
   ],
   [
     {
       "id": "herricku",
       "score": 40300,
-      "adj": 30300
+      "adj": 30300,
+      "rank": 1
     },
     {
       "id": "Zeliang",
       "score": 38300,
-      "adj": 18300
+      "adj": 18300,
+      "rank": 2
     },
     {
       "id": "Andy",
       "score": 25400,
-      "adj": -4600
+      "adj": -4600,
+      "rank": 3
     },
     {
       "id": "Koga",
       "score": -4000,
-      "adj": -44000
+      "adj": -44000,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Paul",
       "score": 98800,
-      "adj": 88800
+      "adj": 88800,
+      "rank": 1
     },
     {
       "id": "Im a Good boy",
       "score": 4700,
-      "adj": -15300
+      "adj": -15300,
+      "rank": 2
     },
     {
       "id": "herricku",
       "score": 400,
-      "adj": -29600
+      "adj": -29600,
+      "rank": 3
     },
     {
       "id": "Andy",
       "score": -3900,
-      "adj": -43900
+      "adj": -43900,
+      "rank": 4
     }
   ],
   [
     {
       "id": "William",
       "score": 45300,
-      "adj": 35300
+      "adj": 35300,
+      "rank": 1
     },
     {
       "id": "herricku",
       "score": 33300,
-      "adj": 13300
+      "adj": 13300,
+      "rank": 2
     },
     {
       "id": "Ryan",
       "score": 24600,
-      "adj": -5400
+      "adj": -5400,
+      "rank": 3
     },
     {
       "id": "Paul",
       "score": -3200,
-      "adj": -43200
+      "adj": -43200,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Paul",
       "score": 63600,
-      "adj": 53600
+      "adj": 53600,
+      "rank": 1
     },
     {
       "id": "alex",
       "score": 36800,
-      "adj": 16800
+      "adj": 16800,
+      "rank": 2
     },
     {
       "id": "Ryan",
       "score": 6000,
-      "adj": -24000
+      "adj": -24000,
+      "rank": 3
     },
     {
       "id": "herricku",
       "score": -6400,
-      "adj": -46400
+      "adj": -46400,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Kevin Neegooyen",
       "score": 87700,
-      "adj": 77700
+      "adj": 77700,
+      "rank": 1
     },
     {
       "id": "Paul",
       "score": 21900,
-      "adj": 1900
+      "adj": 1900,
+      "rank": 2
     },
     {
       "id": "Im a Good boy",
       "score": 18700,
-      "adj": -11300
+      "adj": -11300,
+      "rank": 3
     },
     {
       "id": "Subzoofer",
       "score": -28300,
-      "adj": -68300
+      "adj": -68300,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Andy",
       "score": 32700,
-      "adj": 22700
+      "adj": 22700,
+      "rank": 1
     },
     {
       "id": "alex",
       "score": 31300,
-      "adj": 11300
+      "adj": 11300,
+      "rank": 2
     },
     {
       "id": "Koga",
       "score": 27100,
-      "adj": -2900
+      "adj": -2900,
+      "rank": 3
     },
     {
       "id": "chanananabatman",
       "score": 8900,
-      "adj": -31100
+      "adj": -31100,
+      "rank": 4
     }
   ],
   [
     {
       "id": "William",
       "score": 52700,
-      "adj": 42700
+      "adj": 42700,
+      "rank": 1
     },
     {
       "id": "alex",
       "score": 29000,
-      "adj": 9000
+      "adj": 9000,
+      "rank": 2
     },
     {
       "id": "Paul",
       "score": 18400,
-      "adj": -11600
+      "adj": -11600,
+      "rank": 3
     },
     {
       "id": "Koga",
       "score": -100,
-      "adj": -40100
+      "adj": -40100,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Ryan",
       "score": 58900,
-      "adj": 48900
+      "adj": 48900,
+      "rank": 1
     },
     {
       "id": "Paul",
       "score": 25500,
-      "adj": 5500
+      "adj": 5500,
+      "rank": 2
     },
     {
       "id": "Michael",
       "score": 15400,
-      "adj": -14600
+      "adj": -14600,
+      "rank": 3
     },
     {
       "id": "Koga",
       "score": 200,
-      "adj": -39800
+      "adj": -39800,
+      "rank": 4
     }
   ],
   [
     {
       "id": "alex",
       "score": 48300,
-      "adj": 38300
+      "adj": 38300,
+      "rank": 1
     },
     {
       "id": "Michael",
       "score": 45100,
-      "adj": 25100
+      "adj": 25100,
+      "rank": 2
     },
     {
       "id": "Ryan",
       "score": 4200,
-      "adj": -25800
+      "adj": -25800,
+      "rank": 3
     },
     {
       "id": "herricku",
       "score": 2400,
-      "adj": -37600
+      "adj": -37600,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Koga",
       "score": 38600,
-      "adj": 28600
+      "adj": 28600,
+      "rank": 1
     },
     {
       "id": "Paul",
       "score": 27900,
-      "adj": 7900
+      "adj": 7900,
+      "rank": 2
     },
     {
       "id": "William",
       "score": 20800,
-      "adj": -9200
+      "adj": -9200,
+      "rank": 3
     },
     {
       "id": "Zeliang",
       "score": 12700,
-      "adj": -27300
+      "adj": -27300,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Michael",
       "score": 46700,
-      "adj": 36700
+      "adj": 36700,
+      "rank": 1
     },
     {
       "id": "Paul",
       "score": 33100,
-      "adj": 13100
+      "adj": 13100,
+      "rank": 2
     },
     {
       "id": "alex",
       "score": 24200,
-      "adj": -5800
+      "adj": -5800,
+      "rank": 3
     },
     {
       "id": "Koga",
       "score": -4000,
-      "adj": -44000
+      "adj": -44000,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Michael",
       "score": 60400,
-      "adj": 50400
+      "adj": 50400,
+      "rank": 1
     },
     {
       "id": "Koga",
       "score": 43500,
-      "adj": 23500
+      "adj": 23500,
+      "rank": 2
     },
     {
       "id": "alex",
       "score": -600,
-      "adj": -30600
+      "adj": -30600,
+      "rank": 3
     },
     {
       "id": "Paul",
       "score": -3300,
-      "adj": -43300
+      "adj": -43300,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Ryan",
       "score": 61400,
-      "adj": 51400
+      "adj": 51400,
+      "rank": 1
     },
     {
       "id": "Paul",
       "score": 17500,
-      "adj": -2500
+      "adj": -2500,
+      "rank": 2
     },
     {
       "id": "br0mabs",
       "score": 15400,
-      "adj": -14600
+      "adj": -14600,
+      "rank": 3
     },
     {
       "id": "Zeliang",
       "score": 5700,
-      "adj": -34300
+      "adj": -34300,
+      "rank": 4
     }
   ],
   [
     {
       "id": "thepersonwhodied",
       "score": 45300,
-      "adj": 35300
+      "adj": 35300,
+      "rank": 1
     },
     {
       "id": "Zakura2357",
       "score": 30100,
-      "adj": 10100
+      "adj": 10100,
+      "rank": 2
     },
     {
       "id": "Winston",
       "score": 28600,
-      "adj": -1400
+      "adj": -1400,
+      "rank": 3
     },
     {
       "id": "Paul",
       "score": -4000,
-      "adj": -44000
+      "adj": -44000,
+      "rank": 4
     }
   ],
   [
     {
       "id": "thepersonwhodied",
       "score": 37700,
-      "adj": 27700
+      "adj": 27700,
+      "rank": 1
     },
     {
       "id": "William",
       "score": 33200,
-      "adj": 13200
+      "adj": 13200,
+      "rank": 2
     },
     {
       "id": "Paul",
       "score": 28500,
-      "adj": -1500
+      "adj": -1500,
+      "rank": 3
     },
     {
       "id": "Winston",
       "score": 600,
-      "adj": -39400
+      "adj": -39400,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Zakura2357",
       "score": 36200,
-      "adj": 26200
+      "adj": 26200,
+      "rank": 1
     },
     {
       "id": "Winston",
       "score": 32100,
-      "adj": 12100
+      "adj": 12100,
+      "rank": 2
     },
     {
       "id": "herricku",
       "score": 17100,
-      "adj": -12900
+      "adj": -12900,
+      "rank": 3
     },
     {
       "id": "David",
       "score": 14600,
-      "adj": -25400
+      "adj": -25400,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Paul",
       "score": 55500,
-      "adj": 45500
+      "adj": 45500,
+      "rank": 1
     },
     {
       "id": "Ulaan",
       "score": 46100,
-      "adj": 26100
+      "adj": 26100,
+      "rank": 2
     },
     {
       "id": "alex",
       "score": 2800,
-      "adj": -27200
+      "adj": -27200,
+      "rank": 3
     },
     {
       "id": "Sheng",
       "score": -4400,
-      "adj": -44400
+      "adj": -44400,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Zakura2357",
       "score": 63200,
-      "adj": 53200
+      "adj": 53200,
+      "rank": 1
     },
     {
       "id": "Winston",
       "score": 18900,
-      "adj": -1100
+      "adj": -1100,
+      "rank": 2
     },
     {
       "id": "Ryan",
       "score": 18300,
-      "adj": -11700
+      "adj": -11700,
+      "rank": 3
     },
     {
       "id": "alex",
       "score": -400,
-      "adj": -40400
+      "adj": -40400,
+      "rank": 4
     }
   ],
   [
     {
       "id": "herricku",
       "score": 45700,
-      "adj": 35700
+      "adj": 35700,
+      "rank": 1
     },
     {
       "id": "David",
       "score": 41700,
-      "adj": 21700
+      "adj": 21700,
+      "rank": 2
     },
     {
       "id": "Paul",
       "score": 32600,
-      "adj": 2600
+      "adj": 2600,
+      "rank": 3
     },
     {
       "id": "Michael",
       "score": -20000,
-      "adj": -60000
+      "adj": -60000,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Ryan",
       "score": 56300,
-      "adj": 46300
+      "adj": 46300,
+      "rank": 1
     },
     {
       "id": "Andy",
       "score": 23700,
-      "adj": 3700
+      "adj": 3700,
+      "rank": 2
     },
     {
       "id": "Ulaan",
       "score": 13400,
-      "adj": -16600
+      "adj": -16600,
+      "rank": 3
     },
     {
       "id": "Sheng",
       "score": 6600,
-      "adj": -33400
+      "adj": -33400,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Paul",
       "score": 57500,
-      "adj": 47500
+      "adj": 47500,
+      "rank": 1
     },
     {
       "id": "Ryan",
       "score": 30700,
-      "adj": 10700
+      "adj": 10700,
+      "rank": 2
     },
     {
       "id": "Andy",
       "score": 9600,
-      "adj": -20400
+      "adj": -20400,
+      "rank": 3
     },
     {
       "id": "Koga",
       "score": 2200,
-      "adj": -37800
+      "adj": -37800,
+      "rank": 4
     }
   ],
   [
     {
       "id": "herricku",
       "score": 39600,
-      "adj": 29600
+      "adj": 29600,
+      "rank": 1
     },
     {
       "id": "David",
       "score": 27800,
-      "adj": 7800
+      "adj": 7800,
+      "rank": 2
     },
     {
       "id": "Zeliang",
       "score": 20600,
-      "adj": -9400
+      "adj": -9400,
+      "rank": 3
     },
     {
       "id": "Paul",
       "score": 12000,
-      "adj": -28000
+      "adj": -28000,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Zeliang",
       "score": 36900,
-      "adj": 26900
+      "adj": 26900,
+      "rank": 1
     },
     {
       "id": "alex",
       "score": 30500,
-      "adj": 10500
+      "adj": 10500,
+      "rank": 2
     },
     {
       "id": "Tony",
       "score": 28200,
-      "adj": -1800
+      "adj": -1800,
+      "rank": 3
     },
     {
       "id": "Paul",
       "score": 4400,
-      "adj": -35600
+      "adj": -35600,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Rain",
       "score": 47800,
-      "adj": 37800
+      "adj": 37800,
+      "rank": 1
     },
     {
       "id": "Im a Good boy",
       "score": 18400,
-      "adj": -1600
+      "adj": -1600,
+      "rank": 2
     },
     {
       "id": "Paul",
       "score": 17100,
-      "adj": -12900
+      "adj": -12900,
+      "rank": 3
     },
     {
       "id": "alex",
       "score": 16700,
-      "adj": -23300
+      "adj": -23300,
+      "rank": 4
     }
   ],
   [
     {
       "id": "uikyou",
       "score": 32800,
-      "adj": 22800
+      "adj": 22800,
+      "rank": 1
     },
     {
       "id": "RedComet",
       "score": 28900,
-      "adj": 8900
+      "adj": 8900,
+      "rank": 2
     },
     {
       "id": "Jolie",
       "score": 27400,
-      "adj": -2600
+      "adj": -2600,
+      "rank": 3
     },
     {
       "id": "Paul",
       "score": 10900,
-      "adj": -29100
+      "adj": -29100,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Rohit",
       "score": 53000,
-      "adj": 43000
+      "adj": 43000,
+      "rank": 1
     },
     {
       "id": "danielq987",
       "score": 30300,
-      "adj": 10300
+      "adj": 10300,
+      "rank": 2
     },
     {
       "id": "riichinya",
       "score": 9800,
-      "adj": -20200
+      "adj": -20200,
+      "rank": 3
     },
     {
       "id": "Hilda",
       "score": 6900,
-      "adj": -33100
+      "adj": -33100,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Kevin Neegooyen",
       "score": 33000,
-      "adj": 23000
+      "adj": 23000,
+      "rank": 1
     },
     {
       "id": "Sakei",
       "score": 24800,
-      "adj": 4800
+      "adj": 4800,
+      "rank": 2
     },
     {
       "id": "bigjangles",
       "score": 23800,
-      "adj": -6200
+      "adj": -6200,
+      "rank": 3
     },
     {
       "id": "Eric",
       "score": 18400,
-      "adj": -21600
+      "adj": -21600,
+      "rank": 4
     }
   ],
   [
     {
       "id": "riichinya",
       "score": 27600,
-      "adj": 17600
+      "adj": 17600,
+      "rank": 1
     },
     {
       "id": "Sakei",
       "score": 27400,
-      "adj": 7400
+      "adj": 7400,
+      "rank": 2
     },
     {
       "id": "Koga",
       "score": 24300,
-      "adj": -5700
+      "adj": -5700,
+      "rank": 3
     },
     {
       "id": "Jolie",
       "score": 20700,
-      "adj": -19300
+      "adj": -19300,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Michael",
       "score": 37600,
-      "adj": 27600
+      "adj": 27600,
+      "rank": 1
     },
     {
       "id": "Paul",
       "score": 33300,
-      "adj": 13300
+      "adj": 13300,
+      "rank": 2
     },
     {
       "id": "uikyou",
       "score": 23400,
-      "adj": -6600
+      "adj": -6600,
+      "rank": 3
     },
     {
       "id": "Hilda",
       "score": 5700,
-      "adj": -34300
+      "adj": -34300,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Michael",
       "score": 53700,
-      "adj": 43700
+      "adj": 43700,
+      "rank": 1
     },
     {
       "id": "Ryan",
       "score": 27000,
-      "adj": 7000
+      "adj": 7000,
+      "rank": 2
     },
     {
       "id": "danielq987",
       "score": 20400,
-      "adj": -9600
+      "adj": -9600,
+      "rank": 3
     },
     {
       "id": "Koga",
       "score": -1100,
-      "adj": -41100
+      "adj": -41100,
+      "rank": 4
     }
   ],
   [
     {
       "id": "uikyou",
       "score": 47300,
-      "adj": 37300
+      "adj": 37300,
+      "rank": 1
     },
     {
       "id": "Paul",
       "score": 39400,
-      "adj": 19400
+      "adj": 19400,
+      "rank": 2
     },
     {
       "id": "Rohit",
       "score": 11400,
-      "adj": -18600
+      "adj": -18600,
+      "rank": 3
     },
     {
       "id": "Boeing797",
       "score": 1900,
-      "adj": -38100
+      "adj": -38100,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Michael",
       "score": 36300,
-      "adj": 26300
+      "adj": 26300,
+      "rank": 1
     },
     {
       "id": "Boeing797",
       "score": 31400,
-      "adj": 11400
+      "adj": 11400,
+      "rank": 2
     },
     {
       "id": "Rohit",
       "score": 16300,
-      "adj": -13700
+      "adj": -13700,
+      "rank": 3
     },
     {
       "id": "uikyou",
       "score": 16000,
-      "adj": -24000
+      "adj": -24000,
+      "rank": 4
     }
   ],
   [
     {
       "id": "danielq987",
       "score": 41800,
-      "adj": 31800
+      "adj": 31800,
+      "rank": 1
     },
     {
       "id": "Ryan",
       "score": 38600,
-      "adj": 18600
+      "adj": 18600,
+      "rank": 2
     },
     {
       "id": "Koga",
       "score": 15900,
-      "adj": -14100
+      "adj": -14100,
+      "rank": 3
     },
     {
       "id": "Paul",
       "score": 3700,
-      "adj": -36300
+      "adj": -36300,
+      "rank": 4
     }
   ],
   [
     {
       "id": "danielq987",
       "score": 31200,
-      "adj": 21200
+      "adj": 21200,
+      "rank": 1
     },
     {
       "id": "Sakei",
       "score": 30700,
-      "adj": 10700
+      "adj": 10700,
+      "rank": 2
     },
     {
       "id": "uikyou",
       "score": 26200,
-      "adj": -3800
+      "adj": -3800,
+      "rank": 3
     },
     {
       "id": "Paul",
       "score": 11900,
-      "adj": -28100
+      "adj": -28100,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Andy",
       "score": 32100,
-      "adj": 22100
+      "adj": 22100,
+      "rank": 1
     },
     {
       "id": "Sakei",
       "score": 27800,
-      "adj": 7800
+      "adj": 7800,
+      "rank": 2
     },
     {
       "id": "Kevin Neegooyen",
       "score": 27100,
-      "adj": -2900
+      "adj": -2900,
+      "rank": 3
     },
     {
       "id": "alex",
       "score": 13000,
-      "adj": -27000
+      "adj": -27000,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Paul",
       "score": 32700,
-      "adj": 22700
+      "adj": 22700,
+      "rank": 1
     },
     {
       "id": "Hilda",
       "score": 24600,
-      "adj": 4600
+      "adj": 4600,
+      "rank": 2
     },
     {
       "id": "Koga",
       "score": 24300,
-      "adj": -5700
+      "adj": -5700,
+      "rank": 3
     },
     {
       "id": "uikyou",
       "score": 18400,
-      "adj": -21600
+      "adj": -21600,
+      "rank": 4
     }
   ],
   [
     {
       "id": "alex",
       "score": 48300,
-      "adj": 38300
+      "adj": 38300,
+      "rank": 1
     },
     {
       "id": "uikyou",
       "score": 40800,
-      "adj": 20800
+      "adj": 20800,
+      "rank": 2
     },
     {
       "id": "Koga",
       "score": 12700,
-      "adj": -17300
+      "adj": -17300,
+      "rank": 3
     },
     {
       "id": "tarball",
       "score": -1800,
-      "adj": -41800
+      "adj": -41800,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Hilda",
       "score": 46700,
-      "adj": 36700
+      "adj": 36700,
+      "rank": 1
     },
     {
       "id": "Paul",
       "score": 33500,
-      "adj": 13500
+      "adj": 13500,
+      "rank": 2
     },
     {
       "id": "danielq987",
       "score": 20000,
-      "adj": -10000
+      "adj": -10000,
+      "rank": 3
     },
     {
       "id": "Rohit",
       "score": -200,
-      "adj": -40200
+      "adj": -40200,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Ryan",
       "score": 54000,
-      "adj": 44000
+      "adj": 44000,
+      "rank": 1
     },
     {
       "id": "Paul",
       "score": 24000,
-      "adj": 4000
+      "adj": 4000,
+      "rank": 2
     },
     {
       "id": "tarball",
       "score": 18000,
-      "adj": -12000
+      "adj": -12000,
+      "rank": 3
     },
     {
       "id": "Rohit",
       "score": 4000,
-      "adj": -36000
+      "adj": -36000,
+      "rank": 4
     }
   ],
   [
     {
       "id": "uikyou",
       "score": 54600,
-      "adj": 44600
+      "adj": 44600,
+      "rank": 1
     },
     {
       "id": "Koga",
       "score": 33300,
-      "adj": 13300
+      "adj": 13300,
+      "rank": 2
     },
     {
       "id": "danielq987",
       "score": 9700,
-      "adj": -20300
+      "adj": -20300,
+      "rank": 3
     },
     {
       "id": "tarball",
       "score": 2400,
-      "adj": -37600
+      "adj": -37600,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Michael",
       "score": 33600,
-      "adj": 23600
+      "adj": 23600,
+      "rank": 1
     },
     {
       "id": "uikyou",
       "score": 31400,
-      "adj": 11400
+      "adj": 11400,
+      "rank": 2
     },
     {
       "id": "Paul",
       "score": 19500,
-      "adj": -10500
+      "adj": -10500,
+      "rank": 3
     },
     {
       "id": "danielq987",
       "score": 15500,
-      "adj": -24500
+      "adj": -24500,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Hilda",
       "score": 41100,
-      "adj": 31100
+      "adj": 31100,
+      "rank": 1
     },
     {
       "id": "Sakei",
       "score": 40300,
-      "adj": 20300
+      "adj": 20300,
+      "rank": 2
     },
     {
       "id": "joshma",
       "score": 19200,
-      "adj": -10800
+      "adj": -10800,
+      "rank": 3
     },
     {
       "id": "tarball",
       "score": -600,
-      "adj": -40600
+      "adj": -40600,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Michael",
       "score": 50000,
-      "adj": 40000
+      "adj": 40000,
+      "rank": 1
     },
     {
       "id": "alex",
       "score": 32000,
-      "adj": 12000
+      "adj": 12000,
+      "rank": 2
     },
     {
       "id": "Zeliang",
       "score": 13000,
-      "adj": -17000
+      "adj": -17000,
+      "rank": 3
     },
     {
       "id": "Sakei",
       "score": 5000,
-      "adj": -35000
+      "adj": -35000,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Matthew Tang",
       "score": 35500,
-      "adj": 25500
+      "adj": 25500,
+      "rank": 1
     },
     {
       "id": "br0mabs",
       "score": 25100,
-      "adj": 5100
+      "adj": 5100,
+      "rank": 2
     },
     {
       "id": "Rohit",
       "score": 22200,
-      "adj": -7800
+      "adj": -7800,
+      "rank": 3
     },
     {
       "id": "danielq987",
       "score": 17200,
-      "adj": -22800
+      "adj": -22800,
+      "rank": 4
     }
   ],
   [
     {
       "id": "bigjangles",
       "score": 43100,
-      "adj": 33100
+      "adj": 33100,
+      "rank": 1
     },
     {
       "id": "Paul",
       "score": 28900,
-      "adj": 8900
+      "adj": 8900,
+      "rank": 2
     },
     {
       "id": "William",
       "score": 22400,
-      "adj": -7600
+      "adj": -7600,
+      "rank": 3
     },
     {
       "id": "Ryan",
       "score": 5600,
-      "adj": -34400
+      "adj": -34400,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Hilda",
       "score": 48900,
-      "adj": 38900
+      "adj": 38900,
+      "rank": 1
     },
     {
       "id": "uikyou",
       "score": 25200,
-      "adj": 5200
+      "adj": 5200,
+      "rank": 2
     },
     {
       "id": "riichinya",
       "score": 17500,
-      "adj": -12500
+      "adj": -12500,
+      "rank": 3
     },
     {
       "id": "tarball",
       "score": 8400,
-      "adj": -31600
+      "adj": -31600,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Paul",
       "score": 57600,
-      "adj": 47600
+      "adj": 47600,
+      "rank": 1
     },
     {
       "id": "uikyou",
       "score": 25800,
-      "adj": 5800
+      "adj": 5800,
+      "rank": 2
     },
     {
       "id": "tarball",
       "score": 20100,
-      "adj": -9900
+      "adj": -9900,
+      "rank": 3
     },
     {
       "id": "Boeing797",
       "score": -3500,
-      "adj": -43500
+      "adj": -43500,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Sakei",
       "score": 33400,
-      "adj": 23400
+      "adj": 23400,
+      "rank": 1
     },
     {
       "id": "Matthew Tang",
       "score": 27100,
-      "adj": 7100
+      "adj": 7100,
+      "rank": 2
     },
     {
       "id": "alex",
       "score": 27000,
-      "adj": -3000
+      "adj": -3000,
+      "rank": 3
     },
     {
       "id": "Rohit",
       "score": 12500,
-      "adj": -27500
+      "adj": -27500,
+      "rank": 4
     }
   ],
   [
     {
       "id": "danielq987",
       "score": 43700,
-      "adj": 33700
+      "adj": 33700,
+      "rank": 1
     },
     {
       "id": "Hilda",
       "score": 28800,
-      "adj": 8800
+      "adj": 8800,
+      "rank": 2
     },
     {
       "id": "Koga",
       "score": 22000,
-      "adj": -8000
+      "adj": -8000,
+      "rank": 3
     },
     {
       "id": "riichinya",
       "score": 5500,
-      "adj": -34500
+      "adj": -34500,
+      "rank": 4
     }
   ],
   [
     {
       "id": "uikyou",
       "score": 33500,
-      "adj": 23500
+      "adj": 23500,
+      "rank": 1
     },
     {
       "id": "danielq987",
       "score": 32400,
-      "adj": 12400
+      "adj": 12400,
+      "rank": 2
     },
     {
       "id": "Rohit",
       "score": 27600,
-      "adj": -2400
+      "adj": -2400,
+      "rank": 3
     },
     {
       "id": "Koga",
       "score": 6500,
-      "adj": -33500
+      "adj": -33500,
+      "rank": 4
     }
   ],
   [
     {
       "id": "uikyou",
       "score": 77400,
-      "adj": 67400
+      "adj": 67400,
+      "rank": 1
     },
     {
       "id": "Koga",
       "score": 16100,
-      "adj": -3900
+      "adj": -3900,
+      "rank": 2
     },
     {
       "id": "Michael",
       "score": 5600,
-      "adj": -24400
+      "adj": -24400,
+      "rank": 3
     },
     {
       "id": "Ryan",
       "score": 900,
-      "adj": -39100
+      "adj": -39100,
+      "rank": 4
     }
   ],
   [
     {
       "id": "uikyou",
       "score": 45300,
-      "adj": 35300
+      "adj": 35300,
+      "rank": 1
     },
     {
       "id": "br0mabs",
       "score": 35900,
-      "adj": 15900
+      "adj": 15900,
+      "rank": 2
     },
     {
       "id": "danielq987",
       "score": 18900,
-      "adj": -11100
+      "adj": -11100,
+      "rank": 3
     },
     {
       "id": "Paul",
       "score": -100,
-      "adj": -40100
+      "adj": -40100,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Morax042",
       "score": 51700,
-      "adj": 41700
+      "adj": 41700,
+      "rank": 1
     },
     {
       "id": "herricku",
       "score": 26000,
-      "adj": 6000
+      "adj": 6000,
+      "rank": 2
     },
     {
       "id": "tthegood",
       "score": 23600,
-      "adj": -6400
+      "adj": -6400,
+      "rank": 3
     },
     {
       "id": "eternalvercty",
       "score": -1300,
-      "adj": -41300
+      "adj": -41300,
+      "rank": 4
     }
   ],
   [
     {
       "id": "alex",
       "score": 39100,
-      "adj": 29100
+      "adj": 29100,
+      "rank": 1
     },
     {
       "id": "Boeing797",
       "score": 34000,
-      "adj": 14000
+      "adj": 14000,
+      "rank": 2
     },
     {
       "id": "tthegood",
       "score": 22000,
-      "adj": -8000
+      "adj": -8000,
+      "rank": 3
     },
     {
       "id": "Sakei",
       "score": 4900,
-      "adj": -35100
+      "adj": -35100,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Hilda",
       "score": 31200,
-      "adj": 21200
+      "adj": 21200,
+      "rank": 1
     },
     {
       "id": "Jolie",
       "score": 30200,
-      "adj": 10200
+      "adj": 10200,
+      "rank": 2
     },
     {
       "id": "uikyou",
       "score": 19900,
-      "adj": -10100
+      "adj": -10100,
+      "rank": 3
     },
     {
       "id": "bigjangles",
       "score": 18700,
-      "adj": -21300
+      "adj": -21300,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Michael",
       "score": 38200,
-      "adj": 28200
+      "adj": 28200,
+      "rank": 1
     },
     {
       "id": "herricku",
       "score": 25700,
-      "adj": 5700
+      "adj": 5700,
+      "rank": 2
     },
     {
       "id": "Koga",
       "score": 18200,
-      "adj": -11800
+      "adj": -11800,
+      "rank": 3
     },
     {
       "id": "Matthew Tang",
       "score": 17900,
-      "adj": -22100
+      "adj": -22100,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Kevin Neegooyen",
       "score": 51600,
-      "adj": 41600
+      "adj": 41600,
+      "rank": 1
     },
     {
       "id": "Michael",
       "score": 31400,
-      "adj": 11400
+      "adj": 11400,
+      "rank": 2
     },
     {
       "id": "Boeing797",
       "score": 18800,
-      "adj": -11200
+      "adj": -11200,
+      "rank": 3
     },
     {
       "id": "Sakei",
       "score": -1800,
-      "adj": -41800
+      "adj": -41800,
+      "rank": 4
     }
   ],
   [
     {
       "id": "alex",
       "score": 33300,
-      "adj": 23300
+      "adj": 23300,
+      "rank": 1
     },
     {
       "id": "uikyou",
       "score": 30000,
-      "adj": 10000
+      "adj": 10000,
+      "rank": 2
     },
     {
       "id": "Jolie",
       "score": 20400,
-      "adj": -9600
+      "adj": -9600,
+      "rank": 3
     },
     {
       "id": "Koga",
       "score": 16300,
-      "adj": -23700
+      "adj": -23700,
+      "rank": 4
     }
   ],
   [
     {
       "id": "bigjangles",
       "score": 43700,
-      "adj": 33700
+      "adj": 33700,
+      "rank": 1
     },
     {
       "id": "Hilda",
       "score": 27300,
-      "adj": 7300
+      "adj": 7300,
+      "rank": 2
     },
     {
       "id": "herricku",
       "score": 25700,
-      "adj": -4300
+      "adj": -4300,
+      "rank": 3
     },
     {
       "id": "Paul",
       "score": 3300,
-      "adj": -36700
+      "adj": -36700,
+      "rank": 4
     }
   ],
   [
     {
       "id": "bigjangles",
       "score": 40900,
-      "adj": 30900
+      "adj": 30900,
+      "rank": 1
     },
     {
       "id": "Sakei",
       "score": 31200,
-      "adj": 11200
+      "adj": 11200,
+      "rank": 2
     },
     {
       "id": "tarball",
       "score": 29200,
-      "adj": -800
+      "adj": -800,
+      "rank": 3
     },
     {
       "id": "Jolie",
       "score": -1300,
-      "adj": -41300
+      "adj": -41300,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Hilda",
       "score": 36900,
-      "adj": 26900
+      "adj": 26900,
+      "rank": 1
     },
     {
       "id": "Michael",
       "score": 35200,
-      "adj": 15200
+      "adj": 15200,
+      "rank": 2
     },
     {
       "id": "Koga",
       "score": 26900,
-      "adj": -3100
+      "adj": -3100,
+      "rank": 3
     },
     {
       "id": "Paul",
       "score": 1000,
-      "adj": -39000
+      "adj": -39000,
+      "rank": 4
     }
   ],
   [
     {
       "id": "uikyou",
       "score": 38200,
-      "adj": 28200
+      "adj": 28200,
+      "rank": 1
     },
     {
       "id": "danielq987",
       "score": 38000,
-      "adj": 18000
+      "adj": 18000,
+      "rank": 2
     },
     {
       "id": "Matthew Tang",
       "score": 20900,
-      "adj": -9100
+      "adj": -9100,
+      "rank": 3
     },
     {
       "id": "Boeing797",
       "score": 2900,
-      "adj": -37100
+      "adj": -37100,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Michael",
       "score": 37300,
-      "adj": 27300
+      "adj": 27300,
+      "rank": 1
     },
     {
       "id": "danielq987",
       "score": 35600,
-      "adj": 15600
+      "adj": 15600,
+      "rank": 2
     },
     {
       "id": "Matthew Tang",
       "score": 15400,
-      "adj": -14600
+      "adj": -14600,
+      "rank": 3
     },
     {
       "id": "uikyou",
       "score": 11700,
-      "adj": -28300
+      "adj": -28300,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Boeing797",
       "score": 40100,
-      "adj": 30100
+      "adj": 30100,
+      "rank": 1
     },
     {
       "id": "danielq987",
       "score": 30300,
-      "adj": 10300
+      "adj": 10300,
+      "rank": 2
     },
     {
       "id": "tarball",
       "score": 26900,
-      "adj": -3100
+      "adj": -3100,
+      "rank": 3
     },
     {
       "id": "Daniel (TORI)",
       "score": 2700,
-      "adj": -37300
+      "adj": -37300,
+      "rank": 4
     }
   ],
   [
     {
       "id": "bigjangles",
       "score": 38000,
-      "adj": 28000
+      "adj": 28000,
+      "rank": 1
     },
     {
       "id": "eternalvercty",
       "score": 31600,
-      "adj": 11600
+      "adj": 11600,
+      "rank": 2
     },
     {
       "id": "Daniel (TORI)",
       "score": 25600,
-      "adj": -4400
+      "adj": -4400,
+      "rank": 3
     },
     {
       "id": "Paul",
       "score": 4800,
-      "adj": -35200
+      "adj": -35200,
+      "rank": 4
     }
   ],
   [
     {
       "id": "alex",
       "score": 36400,
-      "adj": 26400
+      "adj": 26400,
+      "rank": 1
     },
     {
       "id": "uikyou",
       "score": 32600,
-      "adj": 12600
+      "adj": 12600,
+      "rank": 2
     },
     {
       "id": "tthegood",
       "score": 15600,
-      "adj": -14400
+      "adj": -14400,
+      "rank": 3
     },
     {
       "id": "danielq987",
       "score": 15400,
-      "adj": -24600
+      "adj": -24600,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Jolie",
       "score": 36400,
-      "adj": 26400
+      "adj": 26400,
+      "rank": 1
     },
     {
       "id": "Michael",
       "score": 34500,
-      "adj": 14500
+      "adj": 14500,
+      "rank": 2
     },
     {
       "id": "Sakei",
       "score": 34000,
-      "adj": 4000
+      "adj": 4000,
+      "rank": 3
     },
     {
       "id": "Hilda",
       "score": -4900,
-      "adj": -44900
+      "adj": -44900,
+      "rank": 4
     }
   ],
   [
     {
       "id": "William",
       "score": 36400,
-      "adj": 26400
+      "adj": 26400,
+      "rank": 1
     },
     {
       "id": "Boeing797",
       "score": 35500,
-      "adj": 15500
+      "adj": 15500,
+      "rank": 2
     },
     {
       "id": "tarball",
       "score": 17400,
-      "adj": -12600
+      "adj": -12600,
+      "rank": 3
     },
     {
       "id": "Morax042",
       "score": 10700,
-      "adj": -29300
+      "adj": -29300,
+      "rank": 4
     }
   ],
   [
     {
       "id": "danielq987",
       "score": 43700,
-      "adj": 33700
+      "adj": 33700,
+      "rank": 1
     },
     {
       "id": "Jolie",
       "score": 30700,
-      "adj": 10700
+      "adj": 10700,
+      "rank": 2
     },
     {
       "id": "Ryan",
       "score": 29600,
-      "adj": -400
+      "adj": -400,
+      "rank": 3
     },
     {
       "id": "Koga",
       "score": -4000,
-      "adj": -44000
+      "adj": -44000,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Sakei",
       "score": 36600,
-      "adj": 26600
+      "adj": 26600,
+      "rank": 1
     },
     {
       "id": "Michael",
       "score": 28300,
-      "adj": 8300
+      "adj": 8300,
+      "rank": 2
     },
     {
       "id": "Paul",
       "score": 23900,
-      "adj": -6100
+      "adj": -6100,
+      "rank": 3
     },
     {
       "id": "Daniel (TORI)",
       "score": 11200,
-      "adj": -28800
+      "adj": -28800,
+      "rank": 4
     }
   ],
   [
     {
       "id": "uikyou",
       "score": 77100,
-      "adj": 67100
+      "adj": 67100,
+      "rank": 1
     },
     {
       "id": "Hilda",
       "score": 17600,
-      "adj": -2400
+      "adj": -2400,
+      "rank": 2
     },
     {
       "id": "Kevin Neegooyen",
       "score": 7600,
-      "adj": -22400
+      "adj": -22400,
+      "rank": 3
     },
     {
       "id": "Boeing797",
       "score": -2300,
-      "adj": -42300
+      "adj": -42300,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Boeing797",
       "score": 66900,
-      "adj": 56900
+      "adj": 56900,
+      "rank": 1
     },
     {
       "id": "Michael",
       "score": 18700,
-      "adj": -1300
+      "adj": -1300,
+      "rank": 2
     },
     {
       "id": "uikyou",
       "score": 14700,
-      "adj": -15300
+      "adj": -15300,
+      "rank": 3
     },
     {
       "id": "Selina",
       "score": -300,
-      "adj": -40300
+      "adj": -40300,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Sakei",
       "score": 41100,
-      "adj": 31100
+      "adj": 31100,
+      "rank": 1
     },
     {
       "id": "Ryan",
       "score": 30900,
-      "adj": 10900
+      "adj": 10900,
+      "rank": 2
     },
     {
       "id": "Hilda",
       "score": 25700,
-      "adj": -4300
+      "adj": -4300,
+      "rank": 3
     },
     {
       "id": "Jolie",
       "score": 2300,
-      "adj": -37700
+      "adj": -37700,
+      "rank": 4
     }
   ],
   [
     {
       "id": "danielq987",
       "score": 33700,
-      "adj": 23700
+      "adj": 23700,
+      "rank": 1
     },
     {
       "id": "Paul",
       "score": 31400,
-      "adj": 11400
+      "adj": 11400,
+      "rank": 2
     },
     {
       "id": "Kevin Neegooyen",
       "score": 22100,
-      "adj": -7900
+      "adj": -7900,
+      "rank": 3
     },
     {
       "id": "Koga",
       "score": 12800,
-      "adj": -27200
+      "adj": -27200,
+      "rank": 4
     }
   ],
   [
     {
       "id": "danielq987",
       "score": 72900,
-      "adj": 62900
+      "adj": 62900,
+      "rank": 1
     },
     {
       "id": "Michael",
       "score": 23000,
-      "adj": 3000
+      "adj": 3000,
+      "rank": 2
     },
     {
       "id": "Paul",
       "score": 6200,
-      "adj": -23800
+      "adj": -23800,
+      "rank": 3
     },
     {
       "id": "Koga",
       "score": -2100,
-      "adj": -42100
+      "adj": -42100,
+      "rank": 4
     }
   ],
   [
     {
       "id": "uikyou",
       "score": 74900,
-      "adj": 64900
+      "adj": 64900,
+      "rank": 1
     },
     {
       "id": "Boeing797",
       "score": 17900,
-      "adj": -2100
+      "adj": -2100,
+      "rank": 2
     },
     {
       "id": "Jolie",
       "score": 7900,
-      "adj": -22100
+      "adj": -22100,
+      "rank": 3
     },
     {
       "id": "Selina",
       "score": -700,
-      "adj": -40700
+      "adj": -40700,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Kevin Neegooyen",
       "score": 37800,
-      "adj": 27800
+      "adj": 27800,
+      "rank": 1
     },
     {
       "id": "Ryan",
       "score": 34300,
-      "adj": 14300
+      "adj": 14300,
+      "rank": 2
     },
     {
       "id": "Sakei",
       "score": 15300,
-      "adj": -14700
+      "adj": -14700,
+      "rank": 3
     },
     {
       "id": "Matthew Tang",
       "score": 12600,
-      "adj": -27400
+      "adj": -27400,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Michael",
       "score": 40700,
-      "adj": 30700
+      "adj": 30700,
+      "rank": 1
     },
     {
       "id": "Matthew Tang",
       "score": 36900,
-      "adj": 16900
+      "adj": 16900,
+      "rank": 2
     },
     {
       "id": "Paul",
       "score": 25100,
-      "adj": -4900
+      "adj": -4900,
+      "rank": 3
     },
     {
       "id": "Jolie",
       "score": -2700,
-      "adj": -42700
+      "adj": -42700,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Sakei",
       "score": 34600,
-      "adj": 24600
+      "adj": 24600,
+      "rank": 1
     },
     {
       "id": "Selina",
       "score": 24600,
-      "adj": 4600
+      "adj": 4600,
+      "rank": 2
     },
     {
       "id": "uikyou",
       "score": 22600,
-      "adj": -7400
+      "adj": -7400,
+      "rank": 3
     },
     {
       "id": "Boeing797",
       "score": 18200,
-      "adj": -21800
+      "adj": -21800,
+      "rank": 4
     }
   ],
   [
     {
       "id": "tarball",
       "score": 47200,
-      "adj": 37200
+      "adj": 37200,
+      "rank": 1
     },
     {
       "id": "Rocraft_ (Eric)",
       "score": 33200,
-      "adj": 13200
+      "adj": 13200,
+      "rank": 2
     },
     {
       "id": "uikyou",
       "score": 16800,
-      "adj": -13200
+      "adj": -13200,
+      "rank": 3
     },
     {
       "id": "joshma",
       "score": 2800,
-      "adj": -37200
+      "adj": -37200,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Michael",
       "score": 56000,
-      "adj": 46000
+      "adj": 46000,
+      "rank": 1
     },
     {
       "id": "Morax042",
       "score": 25300,
-      "adj": 5300
+      "adj": 5300,
+      "rank": 2
     },
     {
       "id": "tthegood",
       "score": 11100,
-      "adj": -18900
+      "adj": -18900,
+      "rank": 3
     },
     {
       "id": "eternalvercty",
       "score": 7600,
-      "adj": -32400
+      "adj": -32400,
+      "rank": 4
     }
   ],
   [
     {
       "id": "uikyou",
       "score": 31800,
-      "adj": 21800
+      "adj": 21800,
+      "rank": 1
     },
     {
       "id": "Sakei",
       "score": 29100,
-      "adj": 9100
+      "adj": 9100,
+      "rank": 2
     },
     {
       "id": "Rohit",
       "score": 22200,
-      "adj": -7800
+      "adj": -7800,
+      "rank": 3
     },
     {
       "id": "Paul",
       "score": 16900,
-      "adj": -23100
+      "adj": -23100,
+      "rank": 4
     }
   ],
   [
     {
       "id": "DylanP10",
       "score": 41300,
-      "adj": 31300
+      "adj": 31300,
+      "rank": 1
     },
     {
       "id": "danielq987",
       "score": 24400,
-      "adj": 4400
+      "adj": 4400,
+      "rank": 2
     },
     {
       "id": "alex",
       "score": 20800,
-      "adj": -9200
+      "adj": -9200,
+      "rank": 3
     },
     {
       "id": "tarball",
       "score": 13500,
-      "adj": -26500
+      "adj": -26500,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Boeing797",
       "score": 37300,
-      "adj": 27300
+      "adj": 27300,
+      "rank": 1
     },
     {
       "id": "Jolie",
       "score": 35700,
-      "adj": 15700
+      "adj": 15700,
+      "rank": 2
     },
     {
       "id": "Hilda",
       "score": 20000,
-      "adj": -10000
+      "adj": -10000,
+      "rank": 3
     },
     {
       "id": "Ryan",
       "score": 7000,
-      "adj": -33000
+      "adj": -33000,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Michael",
       "score": 38100,
-      "adj": 28100
+      "adj": 28100,
+      "rank": 1
     },
     {
       "id": "Sakei",
       "score": 29400,
-      "adj": 9400
+      "adj": 9400,
+      "rank": 2
     },
     {
       "id": "Ryan",
       "score": 27100,
-      "adj": -2900
+      "adj": -2900,
+      "rank": 3
     },
     {
       "id": "Hilda",
       "score": 5400,
-      "adj": -34600
+      "adj": -34600,
+      "rank": 4
     }
   ],
   [
     {
       "id": "uikyou",
       "score": 48600,
-      "adj": 38600
+      "adj": 38600,
+      "rank": 1
     },
     {
       "id": "Jolie",
       "score": 30400,
-      "adj": 10400
+      "adj": 10400,
+      "rank": 2
     },
     {
       "id": "DylanP10",
       "score": 17800,
-      "adj": -12200
+      "adj": -12200,
+      "rank": 3
     },
     {
       "id": "Boeing797",
       "score": 3200,
-      "adj": -36800
+      "adj": -36800,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Rohit",
       "score": 31300,
-      "adj": 21300
+      "adj": 21300,
+      "rank": 1
     },
     {
       "id": "danielq987",
       "score": 26400,
-      "adj": 6400
+      "adj": 6400,
+      "rank": 2
     },
     {
       "id": "alex",
       "score": 23000,
-      "adj": -7000
+      "adj": -7000,
+      "rank": 3
     },
     {
       "id": "Paul",
       "score": 19300,
-      "adj": -20700
+      "adj": -20700,
+      "rank": 4
     }
   ],
   [
     {
       "id": "uikyou",
       "score": 48800,
-      "adj": 38800
+      "adj": 38800,
+      "rank": 1
     },
     {
       "id": "Rohit",
       "score": 33600,
-      "adj": 13600
+      "adj": 13600,
+      "rank": 2
     },
     {
       "id": "Boeing797",
       "score": 23100,
-      "adj": -6900
+      "adj": -6900,
+      "rank": 3
     },
     {
       "id": "Sakei",
       "score": -5500,
-      "adj": -45500
+      "adj": -45500,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Paul",
       "score": 74200,
-      "adj": 64200
+      "adj": 64200,
+      "rank": 1
     },
     {
       "id": "DylanP10",
       "score": 26900,
-      "adj": 6900
+      "adj": 6900,
+      "rank": 2
     },
     {
       "id": "Michael",
       "score": 19900,
-      "adj": -10100
+      "adj": -10100,
+      "rank": 3
     },
     {
       "id": "Hilda",
       "score": -21000,
-      "adj": -61000
+      "adj": -61000,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Ryan",
       "score": 34700,
-      "adj": 24700
+      "adj": 24700,
+      "rank": 1
     },
     {
       "id": "Matthew Tang",
       "score": 29000,
-      "adj": 9000
+      "adj": 9000,
+      "rank": 2
     },
     {
       "id": "danielq987",
       "score": 20400,
-      "adj": -9600
+      "adj": -9600,
+      "rank": 3
     },
     {
       "id": "Jolie",
       "score": 15900,
-      "adj": -24100
+      "adj": -24100,
+      "rank": 4
     }
   ],
   [
     {
       "id": "joshma",
       "score": 37700,
-      "adj": 27700
+      "adj": 27700,
+      "rank": 1
     },
     {
       "id": "Rohit",
       "score": 33600,
-      "adj": 13600
+      "adj": 13600,
+      "rank": 2
     },
     {
       "id": "Chris",
       "score": 21300,
-      "adj": -8700
+      "adj": -8700,
+      "rank": 3
     },
     {
       "id": "joey",
       "score": 7400,
-      "adj": -32600
+      "adj": -32600,
+      "rank": 4
     }
   ],
   [
     {
       "id": "eno-ow-zz",
       "score": 40500,
-      "adj": 30500
+      "adj": 30500,
+      "rank": 1
     },
     {
       "id": "Nauxzd",
       "score": 35700,
-      "adj": 15700
+      "adj": 15700,
+      "rank": 2
     },
     {
       "id": "lele",
       "score": 24400,
-      "adj": -5600
+      "adj": -5600,
+      "rank": 3
     },
     {
       "id": "Rohit",
       "score": -600,
-      "adj": -40600
+      "adj": -40600,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Chris",
       "score": 35800,
-      "adj": 25800
+      "adj": 25800,
+      "rank": 1
     },
     {
       "id": "Morax042",
       "score": 33800,
-      "adj": 13800
+      "adj": 13800,
+      "rank": 2
     },
     {
       "id": "eternalvercty",
       "score": 18900,
-      "adj": -11100
+      "adj": -11100,
+      "rank": 3
     },
     {
       "id": "Snorlax",
       "score": 11500,
-      "adj": -28500
+      "adj": -28500,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Jolie",
       "score": 60700,
-      "adj": 50700
+      "adj": 50700,
+      "rank": 1
     },
     {
       "id": "Matthew Tang",
       "score": 34400,
-      "adj": 14400
+      "adj": 14400,
+      "rank": 2
     },
     {
       "id": "Olivia",
       "score": 9700,
-      "adj": -20300
+      "adj": -20300,
+      "rank": 3
     },
     {
       "id": "CL5998",
       "score": -4800,
-      "adj": -44800
+      "adj": -44800,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Chris",
       "score": 55200,
-      "adj": 45200
+      "adj": 45200,
+      "rank": 1
     },
     {
       "id": "Hilda",
       "score": 26500,
-      "adj": 6500
+      "adj": 6500,
+      "rank": 2
     },
     {
       "id": "Michael",
       "score": 18400,
-      "adj": -11600
+      "adj": -11600,
+      "rank": 3
     },
     {
       "id": "joey",
       "score": -100,
-      "adj": -40100
+      "adj": -40100,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Hilda",
       "score": 44700,
-      "adj": 34700
+      "adj": 34700,
+      "rank": 1
     },
     {
       "id": "Chris",
       "score": 27000,
-      "adj": 7000
+      "adj": 7000,
+      "rank": 2
     },
     {
       "id": "Michael",
       "score": 26500,
-      "adj": -3500
+      "adj": -3500,
+      "rank": 3
     },
     {
       "id": "joey",
       "score": 1800,
-      "adj": -38200
+      "adj": -38200,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Matthew Tang",
       "score": 35200,
-      "adj": 25200
+      "adj": 25200,
+      "rank": 1
     },
     {
       "id": "tarball",
       "score": 34400,
-      "adj": 14400
+      "adj": 14400,
+      "rank": 2
     },
     {
       "id": "Snorlax",
       "score": 24600,
-      "adj": -5400
+      "adj": -5400,
+      "rank": 3
     },
     {
       "id": "danielq987",
       "score": 5800,
-      "adj": -34200
+      "adj": -34200,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Adrian",
       "score": 32800,
-      "adj": 22800
+      "adj": 22800,
+      "rank": 1
     },
     {
       "id": "Hilda",
       "score": 25600,
-      "adj": 5600
+      "adj": 5600,
+      "rank": 2
     },
     {
       "id": "Poppy",
       "score": 22900,
-      "adj": -7100
+      "adj": -7100,
+      "rank": 3
     },
     {
       "id": "Sakei",
       "score": 18700,
-      "adj": -21300
+      "adj": -21300,
+      "rank": 4
     }
   ],
   [
     {
       "id": "danielq987",
       "score": 47800,
-      "adj": 37800
+      "adj": 37800,
+      "rank": 1
     },
     {
       "id": "Latecat",
       "score": 21100,
-      "adj": 1100
+      "adj": 1100,
+      "rank": 2
     },
     {
       "id": "Matthew Tang",
       "score": 19300,
-      "adj": -10700
+      "adj": -10700,
+      "rank": 3
     },
     {
       "id": "Chris",
       "score": 11800,
-      "adj": -28200
+      "adj": -28200,
+      "rank": 4
     }
   ],
   [
     {
       "id": "eno-ow-zz",
       "score": 35500,
-      "adj": 25500
+      "adj": 25500,
+      "rank": 1
     },
     {
       "id": "danielq987",
       "score": 32900,
-      "adj": 12900
+      "adj": 12900,
+      "rank": 2
     },
     {
       "id": "Koga",
       "score": 27000,
-      "adj": -3000
+      "adj": -3000,
+      "rank": 3
     },
     {
       "id": "Adrian",
       "score": 4600,
-      "adj": -35400
+      "adj": -35400,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Chris",
       "score": 41900,
-      "adj": 31900
+      "adj": 31900,
+      "rank": 1
     },
     {
       "id": "Latecat",
       "score": 25900,
-      "adj": 5900
+      "adj": 5900,
+      "rank": 2
     },
     {
       "id": "Poppy",
       "score": 18400,
-      "adj": -11600
+      "adj": -11600,
+      "rank": 3
     },
     {
       "id": "Viona",
       "score": 13800,
-      "adj": -26200
+      "adj": -26200,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Latecat",
       "score": 39100,
-      "adj": 29100
+      "adj": 29100,
+      "rank": 1
     },
     {
       "id": "danielq987",
       "score": 37800,
-      "adj": 17800
+      "adj": 17800,
+      "rank": 2
     },
     {
       "id": "eno-ow-zz",
       "score": 24900,
-      "adj": -5100
+      "adj": -5100,
+      "rank": 3
     },
     {
       "id": "Michael",
       "score": -1800,
-      "adj": -41800
+      "adj": -41800,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Adrian",
       "score": 40100,
-      "adj": 30100
+      "adj": 30100,
+      "rank": 1
     },
     {
       "id": "Chris",
       "score": 29800,
-      "adj": 9800
+      "adj": 9800,
+      "rank": 2
     },
     {
       "id": "Koga",
       "score": 19700,
-      "adj": -10300
+      "adj": -10300,
+      "rank": 3
     },
     {
       "id": "Sakei",
       "score": 10400,
-      "adj": -29600
+      "adj": -29600,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Hilda",
       "score": 41700,
-      "adj": 31700
+      "adj": 31700,
+      "rank": 1
     },
     {
       "id": "Poppy",
       "score": 33700,
-      "adj": 13700
+      "adj": 13700,
+      "rank": 2
     },
     {
       "id": "ericJiang",
       "score": 12900,
-      "adj": -17100
+      "adj": -17100,
+      "rank": 3
     },
     {
       "id": "Viona",
       "score": 11700,
-      "adj": -28300
+      "adj": -28300,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Ryan",
       "score": 57000,
-      "adj": 47000
+      "adj": 47000,
+      "rank": 1
     },
     {
       "id": "herricku",
       "score": 29000,
-      "adj": 9000
+      "adj": 9000,
+      "rank": 2
     },
     {
       "id": "Eric",
       "score": 8000,
-      "adj": -22000
+      "adj": -22000,
+      "rank": 3
     },
     {
       "id": "eno-ow-zz",
       "score": 6000,
-      "adj": -34000
+      "adj": -34000,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Matthew Tang",
       "score": 34500,
-      "adj": 24500
+      "adj": 24500,
+      "rank": 1
     },
     {
       "id": "Koga",
       "score": 27800,
-      "adj": 7800
+      "adj": 7800,
+      "rank": 2
     },
     {
       "id": "Viona",
       "score": 24100,
-      "adj": -5900
+      "adj": -5900,
+      "rank": 3
     },
     {
       "id": "mizukuru",
       "score": 13600,
-      "adj": -26400
+      "adj": -26400,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Viona",
       "score": 31900,
-      "adj": 21900
+      "adj": 21900,
+      "rank": 1
     },
     {
       "id": "Rohit",
       "score": 26100,
-      "adj": 6100
+      "adj": 6100,
+      "rank": 2
     },
     {
       "id": "Ohararinne",
       "score": 21300,
-      "adj": -8700
+      "adj": -8700,
+      "rank": 3
     },
     {
       "id": "mizukuru",
       "score": 20700,
-      "adj": -19300
+      "adj": -19300,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Ryan",
       "score": 41800,
-      "adj": 31800
+      "adj": 31800,
+      "rank": 1
     },
     {
       "id": "Chrisss",
       "score": 31100,
-      "adj": 11100
+      "adj": 11100,
+      "rank": 2
     },
     {
       "id": "Ohararinne",
       "score": 17500,
-      "adj": -12500
+      "adj": -12500,
+      "rank": 3
     },
     {
       "id": "mizukuru",
       "score": 9600,
-      "adj": -30400
+      "adj": -30400,
+      "rank": 4
     }
   ],
   [
     {
       "id": "danielq987",
       "score": 47900,
-      "adj": 37900
+      "adj": 37900,
+      "rank": 1
     },
     {
       "id": "Rohit",
       "score": 42100,
-      "adj": 22100
+      "adj": 22100,
+      "rank": 2
     },
     {
       "id": "herricku",
       "score": 12300,
-      "adj": -17700
+      "adj": -17700,
+      "rank": 3
     },
     {
       "id": "Eric",
       "score": -2300,
-      "adj": -42300
+      "adj": -42300,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Koga",
       "score": 42400,
-      "adj": 32400
+      "adj": 32400,
+      "rank": 1
     },
     {
       "id": "Ohararinne",
       "score": 25900,
-      "adj": 900
+      "adj": 900,
+      "rank": 2
     },
     {
       "id": "Viona",
       "score": 25900,
-      "adj": 900
+      "adj": 900,
+      "rank": 3
     },
     {
       "id": "Hilda",
       "score": 5800,
-      "adj": -34200
+      "adj": -34200,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Rohit",
       "score": 43900,
-      "adj": 33900
+      "adj": 33900,
+      "rank": 1
     },
     {
       "id": "BallosB",
       "score": 28800,
-      "adj": 8800
+      "adj": 8800,
+      "rank": 2
     },
     {
       "id": "Ohararinne",
       "score": 15400,
-      "adj": -14600
+      "adj": -14600,
+      "rank": 3
     },
     {
       "id": "James",
       "score": 11900,
-      "adj": -28100
+      "adj": -28100,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Rohit",
       "score": 45700,
-      "adj": 35700
+      "adj": 35700,
+      "rank": 1
     },
     {
       "id": "Hoyin",
       "score": 27700,
-      "adj": 7700
+      "adj": 7700,
+      "rank": 2
     },
     {
       "id": "Ryan",
       "score": 15500,
-      "adj": -14500
+      "adj": -14500,
+      "rank": 3
     },
     {
       "id": "Tailai",
       "score": 11100,
-      "adj": -28900
+      "adj": -28900,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Ryan",
       "score": 39400,
-      "adj": 29400
+      "adj": 29400,
+      "rank": 1
     },
     {
       "id": "Latecat",
       "score": 33000,
-      "adj": 13000
+      "adj": 13000,
+      "rank": 2
     },
     {
       "id": "eno-ow-zz",
       "score": 28600,
-      "adj": -1400
+      "adj": -1400,
+      "rank": 3
     },
     {
       "id": "herricku",
       "score": -1000,
-      "adj": -41000
+      "adj": -41000,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Latecat",
       "score": 38000,
-      "adj": 28000
+      "adj": 28000,
+      "rank": 1
     },
     {
       "id": "eno-ow-zz",
       "score": 33300,
-      "adj": 13300
+      "adj": 13300,
+      "rank": 2
     },
     {
       "id": "herricku",
       "score": 32000,
-      "adj": 2000
+      "adj": 2000,
+      "rank": 3
     },
     {
       "id": "Ryan",
       "score": -3300,
-      "adj": -43300
+      "adj": -43300,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Eric",
       "score": 57000,
-      "adj": 47000
+      "adj": 47000,
+      "rank": 1
     },
     {
       "id": "Ohararinne",
       "score": 30900,
-      "adj": 10900
+      "adj": 10900,
+      "rank": 2
     },
     {
       "id": "Matthew Tang",
       "score": 11100,
-      "adj": -18900
+      "adj": -18900,
+      "rank": 3
     },
     {
       "id": "Elegant",
       "score": 1000,
-      "adj": -39000
+      "adj": -39000,
+      "rank": 4
     }
   ],
   [
     {
       "id": "riichinya",
       "score": 39000,
-      "adj": 29000
+      "adj": 29000,
+      "rank": 1
     },
     {
       "id": "Rohit",
       "score": 37700,
-      "adj": 17700
+      "adj": 17700,
+      "rank": 2
     },
     {
       "id": "sabres77",
       "score": 33200,
-      "adj": 3200
+      "adj": 3200,
+      "rank": 3
     },
     {
       "id": "Hoyin",
       "score": -9900,
-      "adj": -49900
+      "adj": -49900,
+      "rank": 4
     }
   ],
   [
     {
       "id": "herricku",
       "score": 50500,
-      "adj": 40500
+      "adj": 40500,
+      "rank": 1
     },
     {
       "id": "danielq987",
       "score": 33700,
-      "adj": 13700
+      "adj": 13700,
+      "rank": 2
     },
     {
       "id": "Ryan",
       "score": 17000,
-      "adj": -13000
+      "adj": -13000,
+      "rank": 3
     },
     {
       "id": "Rohit",
       "score": -1200,
-      "adj": -41200
+      "adj": -41200,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Ryan",
       "score": 34000,
-      "adj": 24000
+      "adj": 24000,
+      "rank": 1
     },
     {
       "id": "danielq987",
       "score": 32200,
-      "adj": 12200
+      "adj": 12200,
+      "rank": 2
     },
     {
       "id": "herricku",
       "score": 25200,
-      "adj": -4800
+      "adj": -4800,
+      "rank": 3
     },
     {
       "id": "Rohit",
       "score": 8600,
-      "adj": -31400
+      "adj": -31400,
+      "rank": 4
     }
   ],
   [
     {
       "id": "Matthew Tang",
       "score": 35200,
-      "adj": 25200
+      "adj": 25200,
+      "rank": 1
     },
     {
       "id": "Latecat",
       "score": 27100,
-      "adj": 7100
+      "adj": 7100,
+      "rank": 2
     },
     {
       "id": "Ryan",
       "score": 21100,
-      "adj": -8900
+      "adj": -8900,
+      "rank": 3
     },
     {
       "id": "Ohararinne",
       "score": 16600,
-      "adj": -23400
+      "adj": -23400,
+      "rank": 4
     }
   ]
 ]
