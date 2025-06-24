@@ -10,7 +10,6 @@ bonus = [15,5,-5,-15]
 adjustment = (max(1500,table average rating) - player's rating) / 40
 change = multiplier * (bonus + adjustment)
 
-
 */
 ( async () => {
     const raw = await readFile("./original.json", "utf8");
