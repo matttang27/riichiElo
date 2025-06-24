@@ -5,8 +5,9 @@ const BASE_RATING = 1500;
 const MIN_MULTIPLIER = 0.2;
 const ADJ_CONSTANT = 20; // Used in adjustment calculation
 const MULTIPLIER_PER_GAME = 0;
+const BONUS_PER_RANK = 40;
 
-interface Player {
+interface RiichiPlayer {
   r: number; // rating
   n: number; // games played
   t: number; // total adjusted score
@@ -26,25 +27,21 @@ const file = readFileSync("./data/ranks.json", "utf-8")
 const seeds: Record<string, string> = JSON.parse(file);
 console.log(seeds);
 
-let players: Map<string, Player> = new Map();
+let players: Map<string, RiichiPlayer> = new Map();
 
 
 
-function getPlayer(id: string): Player {
+function getPlayer(id: string): RiichiPlayer {
   if (!players.has(id)) {
-    const bonus = (rankList.indexOf(seeds[id]) + 1) * 40;
+    const bonus = (rankList.indexOf(seeds[id]) + 1) * BONUS_PER_RANK
     players.set(id, { r: BASE_RATING + bonus, n: 0, t: 0 });
+    console.log(`created player ${id} with elo ${BASE_RATING + bonus}`)
   }
   return players.get(id)!;
 }
 
-getPlayer('Koga')
-getPlayer('Michael')
-getPlayer('eporijewqr')
-
-function updateRatings(game: GamePlayer[]): number[] {
-  //insert your formula here:
-
+//https://mechaweaponsvidya.wordpress.com/2019/09/17/this-is-now-a-riichi-blog-some-rambling-about-tenhous-ranking-systems/
+function tenhouMethod(game: GamePlayer[]): number[] {
   const tableAvg = game.reduce((acc, player) => acc + getPlayer(player.id).r, 0) / 4
   const seededAvg = Math.max(1500, tableAvg);
 
@@ -67,6 +64,13 @@ function updateRatings(game: GamePlayer[]): number[] {
 
     return change
   })
+}
+
+
+function updateRatings(game: GamePlayer[]): number[] {
+  return tenhouMethod(game);
+
+  
   
 }
 
@@ -102,7 +106,7 @@ const results = runSeason(games);
 
 // Save results as text file
 // Don't include less than 10 games
-const filteredResults = results.filter(({ games }) => games >= 10);
+const filteredResults = results.filter(({ games }) => games >= 0);
 const output = filteredResults.map(({ id, elo, games, totalAdj }) => `${id}: ${elo} (${games} games) ${totalAdj}`).join('\n');
 
 writeFileSync("./ratings3.txt", output, "utf8");

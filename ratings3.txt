@@ -1,18 +1,30 @@
-uikyou: 1806.9 (27 games) 425800
-Michael: 1806.6 (34 games) 416600
-danielq987: 1703.7 (28 games) 250000
-NoobWind: 1633 (12 games) 135500
-herricku: 1613.3 (29 games) 214000
-Ryan: 1605.8 (39 games) 109900
-Matthew Tang: 1560.9 (14 games) 45000
-alex: 1555.2 (19 games) 41500
-Zeliang: 1518.5 (13 games) -5500
-Hilda: 1514.1 (21 games) -4800
-Rohit: 1491.2 (20 games) -60200
-Sakei: 1484.1 (20 games) -32600
-Jolie: 1473.3 (14 games) -75300
-Boeing797: 1468.8 (18 games) -96400
-Andy: 1461.4 (12 games) -63900
-Paul: 1432.4 (55 games) -322400
-tarball: 1401.1 (12 games) -164900
-Koga: 1368.4 (36 games) -403000
+uikyou: 1651 (27 games) 425800
+Latecat: 1647.9 (6 games) 84200
+Kevin Neegooyen: 1640.7 (7 games) 136900
+William: 1638.9 (6 games) 100800
+NoobWind: 1633.1 (12 games) 135500
+bigjangles: 1627.4 (6 games) 98200
+danielq987: 1625 (28 games) 250000
+Zakura2357: 1613.1 (8 games) 50300
+Michael: 1599.2 (34 games) 416600
+Rocraft_ (Eric): 1599.1 (6 games) 40600
+eno-ow-zz: 1591.6 (6 games) 28800
+Chris: 1586.1 (7 games) 82800
+Ryan: 1585.1 (39 games) 109900
+Matthew Tang: 1578.1 (14 games) 45000
+alex: 1577.4 (19 games) 41500
+herricku: 1573.9 (29 games) 214000
+Zeliang: 1564.5 (13 games) -5500
+Andy: 1556.5 (12 games) -63900
+riichinya: 1544.7 (5 games) -20600
+Boeing797: 1541.1 (18 games) -96400
+Rohit: 1537 (20 games) -60200
+Hilda: 1533.6 (21 games) -4800
+Sakei: 1523.7 (20 games) -32600
+Jolie: 1522.2 (14 games) -75300
+Koga: 1496 (36 games) -403000
+Paul: 1495.1 (55 games) -322400
+tarball: 1487.8 (12 games) -164900
+Viona: 1456.4 (5 games) -37600
+kev: 1450 (6 games) -110100
+Ohararinne: 1424.6 (6 games) -47400
