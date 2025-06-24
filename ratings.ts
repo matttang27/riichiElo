@@ -1,9 +1,10 @@
-import { readFile, writeFile } from "fs/promises";
+import { readFileSync, writeFileSync } from "fs";
 
 // ratings.js
 const BASE_RATING = 1500;
 const MIN_MULTIPLIER = 0.2;
-const ADJ_CONSTANT = 40; // Used in adjustment calculation
+const ADJ_CONSTANT = 20; // Used in adjustment calculation
+const MULTIPLIER_PER_GAME = 0;
 
 interface Player {
   r: number; // rating
@@ -18,41 +19,40 @@ interface GamePlayer {
   rank: number;
 }
 
-function convertGame(game: GamePlayer[]): void {
-  // ...implement as needed...
-}
+const rankList = ['E1','E2','E3','M1','M2','M3','S1','S2','S3']
+
+let playerSeeds: Map<string, number> = new Map()
+const file = readFileSync("./data/ranks.json", "utf-8")
+const seeds: Record<string, string> = JSON.parse(file);
+console.log(seeds);
 
 let players: Map<string, Player> = new Map();
 
-function updateRatings(game: GamePlayer[]): void {
-  // ...implement as needed...
-}
+
 
 function getPlayer(id: string): Player {
   if (!players.has(id)) {
-    players.set(id, { r: BASE_RATING, n: 0, t: 0 });
+    const bonus = (rankList.indexOf(seeds[id]) + 1) * 40;
+    players.set(id, { r: BASE_RATING + bonus, n: 0, t: 0 });
   }
   return players.get(id)!;
 }
 
-function updateGame(game: GamePlayer[]): void {
-  // 1) Sort by raw score descending
-  game.sort((a, b) => b.score - a.score);
+getPlayer('Koga')
+getPlayer('Michael')
+getPlayer('eporijewqr')
 
-  // 2) Pre-compute table average rating
-  const Rs = game.map(p => getPlayer(p.id).r);
-  const tableAvg = Rs.reduce((a, b) => a + b, 0) / Rs.length;
+function updateRatings(game: GamePlayer[]): number[] {
+  //insert your formula here:
+
+  const tableAvg = game.reduce((acc, player) => acc + getPlayer(player.id).r, 0) / 4
   const seededAvg = Math.max(1500, tableAvg);
 
-  // 3) For each player, compute ΔR via your formula
-  game.forEach(p => {
+  
+  return game.map(p => {
     const pl = getPlayer(p.id);
-
-    // “number of games” BEFORE this one
-    const g = pl.n;
-
     // multiplier = max(1 – 0.002·g, 0.2)
-    const multiplier = Math.max(1 - 0.05 * g, MIN_MULTIPLIER);
+    const multiplier = Math.max(1 - MULTIPLIER_PER_GAME * pl.n, MIN_MULTIPLIER);
 
     // adjustment = (seededAvg – playerRating) / 40
     const adjustment = (seededAvg - pl.r) / ADJ_CONSTANT;
@@ -61,11 +61,21 @@ function updateGame(game: GamePlayer[]): void {
     // change = multiplier * (adjusted_score/1000 + adjustment)
     const change = multiplier * (p.adj / 1000 + adjustment);
 
-    // apply
     pl.r += change;
     pl.n += 1;
     pl.t += p.adj;
-  });
+
+    return change
+  })
+  
+}
+
+function updateGame(game: GamePlayer[]): void {
+  // 1) Sort by raw score descending
+  game.sort((a, b) => b.score - a.score);
+
+  let changes = updateRatings(game);
+  console.log(game.map((p,i) => `${p.id}: ${(p.adj / 1000).toFixed(1)} : ${changes[i]} : ${getPlayer(p.id).r}`))
 }
 
 function runSeason(allGames: GamePlayer[][]) {
@@ -75,26 +85,24 @@ function runSeason(allGames: GamePlayer[][]) {
     .sort((a, b) => b.elo - a.elo);
 }
 
-(async () => {
-  const raw = await readFile("./adjusted.json", "utf8");
-  const games: GamePlayer[][] = JSON.parse(raw);
+const raw = readFileSync("./data/adjusted.json", "utf8");
+const games: GamePlayer[][] = JSON.parse(raw);
 
-  games.forEach((game) => {
-    game.forEach((player) => {
-      const { id, adj } = player;
-      if (!players.has(id)) {
-        players.set(id, { r: BASE_RATING, n: 0, t: 0 });
-      }
-      const pl = players.get(id)!;
-      pl.t += adj;
-    });
+games.forEach((game) => {
+  game.forEach((player) => {
+    const { id, adj } = player;
+    if (!players.has(id)) {
+      players.set(id, { r: BASE_RATING, n: 0, t: 0 });
+    }
+    const pl = players.get(id)!;
   });
+});
 
-  const results = runSeason(games);
+const results = runSeason(games);
 
-  // Save results as text file
-  // Don't include less than 10 games
-  const filteredResults = results.filter(({ games }) => games >= 10);
-  const output = filteredResults.map(({ id, elo, games, totalAdj }) => `${id}: ${elo} (${games} games) ${totalAdj}`).join('\n');
-  await writeFile("./ratings.txt", output, "utf8");
-})();
+// Save results as text file
+// Don't include less than 10 games
+const filteredResults = results.filter(({ games }) => games >= 10);
+const output = filteredResults.map(({ id, elo, games, totalAdj }) => `${id}: ${elo} (${games} games) ${totalAdj}`).join('\n');
+
+writeFileSync("./ratings3.txt", output, "utf8");
