@@ -92,29 +92,73 @@ function updateGame(game: GamePlayer[]): void {
 	);
 }
 
-function runSeason(allGames: GamePlayer[][]) {
+type PlayerResult = {
+	id: string;
+	elo: number;
+	gameCount: number;
+	totalAdj: number;
+	averageAdj: number;
+}
+function runSeason(allGames: GamePlayer[][]): PlayerResult[] {
 	allGames.forEach(updateGame);
 	return [...players.entries()]
 		.map(([id, {p, n, t}]) => ({
 			id,
 			elo: +p.getRating().toFixed(1),
-			games: n,
+			gameCount: n,
 			totalAdj: t,
 			averageAdj: t / n,
 		}))
 		.sort((a, b) => b.elo - a.elo);
 }
 
-const raw = readFileSync("./data/adjusted.json", "utf8");
-const games: GamePlayer[][] = JSON.parse(raw);
+//const raw = readFileSync("./data/adjusted.json", "utf8");
+//const games: GamePlayer[][] = JSON.parse(raw);
+
+
+import fs from 'fs';
+import { parse } from 'papaparse';
+
+// 1) Read the entire file into a string
+const gameContent = fs.readFileSync('DataGame.csv', 'utf8');
+const { data, errors } = parse<{ [key: string]: string }>(gameContent, {
+  header: true,
+  skipEmptyLines: true,
+});
+
+console.log(data);
+
+const games: GamePlayer[][] = data.map((row) => {
+	let game: GamePlayer[] = [];
+	for (let i = 1; i <= 4; i++) {
+		game.push({
+			id: row[`id_player_${i}`],
+			score: parseFloat(row[`score_raw_${i}`]),
+			adj: parseFloat(row[`score_adj_${i}`]),
+			rank: i
+		});
+	}
+	return game;
+})
+
+function getAverageOpponentRating(id: string, games: GamePlayer[][], results: PlayerResult[]) {
+	const playerGames = games.filter(game => game.some(p => p.id === id));
+	const opponentRatings = playerGames.flatMap(game => 
+		game.filter(p => p.id !== id).map(p => results.find(r => r.id === p.id)?.elo || 0)
+	);
+	return opponentRatings.reduce((sum, rating) => sum + rating, 0) / opponentRatings.length;
+}
 
 const results = runSeason(games);
 
 // Save results as text file
 // Don't include less than 10 games
-const filteredResults = results.filter(({ games }) => games >= 5);
+const filteredResults = results.filter(({ gameCount }) => gameCount >= 5);
 const output = filteredResults
-	.map(({ id, elo, games, totalAdj }) => `${id}: ${elo} (${games} games) ${totalAdj}`)
+	.map(({ id, elo, gameCount, totalAdj }) => {
+		
+		return `<@${id}>: ${elo} (${gameCount} games) ${(totalAdj / 1000).toFixed(1)} ${getAverageOpponentRating(id, games, results).toFixed(1)}`;
+	})
 	.join("\n");
 
 writeFileSync("./ratings3.txt", output, "utf8");
